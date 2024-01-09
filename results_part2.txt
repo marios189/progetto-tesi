@@ -1740,7 +1740,7 @@ europa.eu - eurona.eu - Typo
 europa.eu - eurooa.eu - Probably Typo
 europa.eu - euroopa.eu - Unknown
 europa.eu - europ.eu - Typo Phishing
-europa.eu - europå.eu - Typo Phishing
+europa.eu - europï¿½.eu - Typo Phishing
 europa.eu - europa1.eu - Probably Typo
 europa.eu - europa4.eu - Typo
 europa.eu - europaa.eu - Typo
@@ -1801,3 +1801,367 @@ europa.eu - ruropa.eu - Probably Typo
 europa.eu - turopa.eu - Typo
 europa.eu - ueropa.eu - Typo
 europa.eu - uropa.eu - Typo
+genius.com - 2genius.com - Probably Typo
+genius.com - 3genius.com - Unknown
+genius.com - 4genius.com - Probably Typo
+genius.com - 5genius.com - Probably Typo
+genius.com - 6enius.com - Typo
+genius.com - 6genius.com - Typo
+genius.com - 7genius.com - Typo
+genius.com - 8genius.com - Typo
+genius.com - 9enius.com - Typo
+genius.com - agenius.com - Typo
+genius.com - benius.com - Typo
+genius.com - bgenius.com - Typo Phishing
+genius.com - cenius.com - Unknown
+genius.com - denius.com - Probably Typo
+genius.com - dgenius.com - Probably Typo
+genius.com - egenius.com - Typo
+genius.com - egnius.com - Typo
+genius.com - enius.com - Typo
+genius.com - fenius.com - Typo
+genius.com - fgenius.com - Unknown
+genius.com - g.enius.com - Probably Typo
+genius.com - g3enius.com - Typo
+genius.com - g3nius.com - Typo
+genius.com - gaenius.com - Typo
+genius.com - ganius.com - Typo
+genius.com - gcnius.com - Typo
+genius.com - gdnius.com - Probably Typo
+genius.com - geanius.com - Typo
+genius.com - gebius.com - Malware
+genius.com - gecius.com - Typo Phishing
+genius.com - gedius.com - Typo
+genius.com - geenius.com - Typo Phishing
+genius.com - geinus.com - Typo
+genius.com - geius.com - Probably Typo
+genius.com - gekius.com - Typo
+genius.com - gelius.com - Probably Typo
+genius.com - gelnius.com - Typo
+genius.com - gemius.com - Typo
+genius.com - gen1us.com - Typo
+genius.com - gen2us.com - Probably Typo
+genius.com - gen3us.com - Typo
+genius.com - gen4us.com - Probably Typo
+genius.com - genaius.com - Probably Typo
+genius.com - genaus.com - Typo
+genius.com - genbus.com - Typo Phishing
+genius.com - gencus.com - Typo
+genius.com - gendius.com - Typo
+genius.com - gendus.com - Typo Phishing
+genius.com - geneius.com - Typo
+genius.com - geneus.com - Probably Typo
+genius.com - gengius.com - Malware
+genius.com - gengus.com - Probably Typo
+genius.com - geni.us.com - Typo
+genius.com - geni4s.com - Unknown
+genius.com - geni8s.com - Typo
+genius.com - genias.com - Typo
+genius.com - genibus.com - Typo
+genius.com - genics.com - Typo
+genius.com - genicus.com - Unknown
+genius.com - genids.com - Unknown
+genius.com - genies.com - Typo
+genius.com - genieus.com - Probably Typo
+genius.com - geniis.com - Typo
+genius.com - geniius.com - Typo
+genius.com - genijus.com - Typo
+genius.com - geniks.com - Typo
+genius.com - genilus.com - Typo
+genius.com - genimus.com - Probably Typo
+genius.com - genins.com - Typo
+genius.com - geninus.com - Typo
+genius.com - genios.com - Typo
+genius.com - genious.com - Typo
+genius.com - genips.com - Typo Phishing
+genius.com - genipus.com - Probably Typo
+genius.com - geniqs.com - Probably Typo
+genius.com - geniqus.com - Typo
+genius.com - genirus.com - Typo
+genius.com - genis.com - Unknown
+genius.com - geniss.com - Probably Typo
+genius.com - genisu.com - Probably Typo
+genius.com - genisus.com - Probably Typo
+genius.com - genits.com - Typo
+genius.com - genitus.com - Typo Phising
+genius.com - geniu.com - Typo
+genius.com - geniu5.com - Typo
+genius.com - geniua.com - Probably Typo
+genius.com - geniubs.com - Typo
+genius.com - geniuc.com - Typo
+genius.com - geniud.com - Typo
+genius.com - geniue.com - Probably Typo
+genius.com - geniues.com - Typo
+genius.com - geniuf.com - Probably Typo
+genius.com - geniuh.com - Probably Typo
+genius.com - geniuis.com - Probably Typo
+genius.com - geniul.com - Typo Phishing
+genius.com - geniuls.com - Typo
+genius.com - geniums.com - Probably Typo
+genius.com - geniun.com - Typo
+genius.com - geniuns.com - Probably Typo
+genius.com - geniuo.com - Probably Typo
+genius.com - geniuos.com - Typo
+genius.com - geniup.com - Typo
+genius.com - geniuq.com - Malware
+genius.com - geniur.com - Typo
+genius.com - genus.com - Probably Not Typo
+genius.com - genius0.com - Probably Typo
+genius.com - genius1.com - Probably Typo
+genius.com - genius2.com - Typo
+genius.com - genius3.com - Typo Phishing
+genius.com - genius4.com - Typo
+genius.com - genius5.com - Typo
+genius.com - genius7.com - Probably Typo
+genius.com - genius8.com - Typo
+genius.com - genius9.com - Typo
+genius.com - geniusa.com - Typo
+genius.com - geniusb.com - Typo
+genius.com - geniusc.com - Typo
+genius.com - geniusd.com - Typo
+genius.com - geniuse.com - Probably Typo
+genius.com - geniusf.com - Typo
+genius.com - geniusg.com - Typo
+genius.com - geniush.com - Typo
+genius.com - geniusi.com - Typo
+genius.com - geniusj.com - Typo
+genius.com - geniusl.com - Typo
+genius.com - geniusm.com - Typo
+genius.com - geniusn.com - Unknown
+genius.com - geniuso.com - Typo
+genius.com - geniusp.com - Unknown
+genius.com - geniusq.com - Typo
+genius.com - geniusr.com - Typo
+genius.com - geniuss.com - Probably Typo
+genius.com - geniust.com - Typo
+genius.com - geniusu.com - Typo
+genius.com - geniusv.com - Typo
+genius.com - geniusw.com - Typo Phishing
+genius.com - geniusx.com - Typo
+genius.com - geniusy.com - Typo Phishing
+genius.com - geniusz.com - Typo
+genius.com - geniuts.com - Probably Typo
+genius.com - geniuu.com - Typo
+genius.com - geniuus.com - Typo
+genius.com - geniux.com - Typo
+genius.com - geniuxs.com - Typo
+genius.com - geniuz.com - Typo
+genius.com - genivs.com - Probably Typo
+genius.com - genixus.com - Typo
+genius.com - geniys.com - Probably Typo
+genius.com - geniyus.com - Probably Typo
+genius.com - genjus.com - Typo
+genius.com - genlius.com - Probably Typo
+genius.com - genlus.com - Probably Not Typo
+genius.com - genmus.com - Unkown
+genius.com - gennius.com - Typo
+genius.com - gennus.com - Typo Phishing
+genius.com - genoius.com - Typo
+genius.com - genous.com - Typo
+genius.com - genrus.com - Unkown
+genius.com - gensius.com - Typo
+genius.com - gensus.com - Typo Phishing
+genius.com - gentus.com - Typo
+genius.com - genuis.com - Malware
+genius.com - genuus.com - Typo
+genius.com - genxius.com - Typo
+genius.com - genxus.com - Typo
+genius.com - genzius.com - Typo
+genius.com - genzus.com - Probably Typo
+genius.com - genus.com - Unknown
+genius.com - geonius.com - Typo
+genius.com - gerius.com - Typo
+genius.com - gernius.com - Typo
+genius.com - gesius.com - Typo
+genius.com - getius.com - Unknown
+genius.com - gexius.com - Unknown
+genius.com - geynius.com - Typo
+genius.com - gezius.com - Typo
+genius.com - gienius.com - Typo
+genius.com - ginius.com - Typo
+genius.com - gneius.com - Typo
+genius.com - goenius.com - Typo
+genius.com - gonius.com - Typo
+genius.com - grenius.com - Typo
+genius.com - grnius.com - Typo
+genius.com - gunius.com - Unknown
+genius.com - gynius.com - Typo
+genius.com - henius.com - Unkown
+genius.com - hgenius.com - Typo
+genius.com - ienius.com - Typo
+genius.com - igenius.com - Typo
+genius.com - jenius.com - Typo
+genius.com - kenius.com - Typo
+genius.com - kgenius.com - Typo
+genius.com - lenius.com - Unknown
+genius.com - lgenius.com - Probably Typo
+genius.com - menius.com - Typo
+genius.com - nenius.com - Unknown
+genius.com - ngenius.com - Typo
+genius.com - ogenius.com - Typo
+genius.com - penius.com - Typo
+genius.com - pgenius.com - Typo
+genius.com - qenius.com - Probably Typo
+genius.com - qgenius.com - Typo
+genius.com - renius.com - Probably Typo
+genius.com - rgenius.com - Typo
+genius.com - senius.com - Typo
+genius.com - sgenius.com - Typo
+genius.com - tenius.com - Typo
+genius.com - tgenius.com - Typo
+genius.com - ugenius.com - Probably Typo
+genius.com - venius.com - Probably Typo
+genius.com - wenius.com - Unknown
+genius.com - wgenius.com - Probably Typo
+genius.com - xenius.com - Unknown
+genius.com - xgenius.com - Probably Typo
+genius.com - yenius.com - Typo
+genius.com - zenius.com - Typo
+genius.com - zgenius.com - Typo
+ebay.co.uk - 3bay.co.uk - Probably Typo
+ebay.co.uk - 3ebay.co.uk - Typo
+ebay.co.uk - 4bay.co.uk - Typo
+ebay.co.uk - 4ebay.co.uk - Typo
+ebay.co.uk - 5bay.co.uk - Probably Typo
+ebay.co.uk - 6bay.co.uk - Probably Typo
+ebay.co.uk - 7bay.co.uk - Probably Typo
+ebay.co.uk - 8bay.co.uk - Probably Typo
+ebay.co.uk - 9bay.co.uk - Probably Typo
+ebay.co.uk - abay.co.uk - Typo
+ebay.co.uk - aebay.co.uk - Probably Typo
+ebay.co.uk - bay.co.uk - Unknown
+ebay.co.uk - bbay.co.uk - Typo
+ebay.co.uk - beay.co.uk - Unknown
+ebay.co.uk - cbay.co.uk - Typo
+ebay.co.uk - dbay.co.uk - Typo
+ebay.co.uk - e3ay.co.uk - Unknown
+ebay.co.uk - e3bay.co.uk - Typo
+ebay.co.uk - e4bay.co.uk - Typo
+ebay.co.uk - eabay.co.uk - Typo
+ebay.co.uk - eaby.co.uk - Typo
+ebay.co.uk - eay.co.uk - Unknown
+ebay.co.uk - eb.ay.co.uk - Typo
+ebay.co.uk - eba.co.uk - Typo
+ebay.co.uk - eba6.co.uk - Typo
+ebay.co.uk - eba6y.co.uk - Typo
+ebay.co.uk - eba7.co.uk - Typo
+ebay.co.uk - eba7y.co.uk - Typo
+ebay.co.uk - ebaa.co.uk - Probably Typo
+ebay.co.uk - ebaay.co.uk - Probably Typo
+ebay.co.uk - ebaby.co.uk - Probably Typo
+ebay.co.uk - ebac.co.uk - Unknown
+ebay.co.uk - ebae.co.uk - Probably Typo
+ebay.co.uk - ebag.co.uk - Probably Typo
+ebay.co.uk - ebagy.co.uk - Typo
+ebay.co.uk - ebah.co.uk - Probably Typo
+ebay.co.uk - ebahy.co.uk - Typo
+ebay.co.uk - ebai.co.uk - Typo
+ebay.co.uk - ebaj.co.uk - Typo
+ebay.co.uk - ebajy.co.uk - Typo
+ebay.co.uk - ebam.co.uk - Typo
+ebay.co.uk - eban.co.uk - Typo
+ebay.co.uk - ebao.co.uk - Typo
+ebay.co.uk - ebaqy.co.uk - Unknown
+ebay.co.uk - ebar.co.uk - Typo
+ebay.co.uk - ebas.co.uk - Typo
+ebay.co.uk - ebasy.co.uk - Typo
+ebay.co.uk - ebat.co.uk - Typo
+ebay.co.uk - ebaty.co.uk - Typo
+ebay.co.uk - ebau.co.uk - Typo
+ebay.co.uk - ebauy.co.uk - Probably Typo
+ebay.co.uk - ebav.co.uk - Typo
+ebay.co.uk - ebaw.co.uk - Malware
+ebay.co.uk - ebawy.co.uk - Typo
+ebay.co.uk - ebax.co.uk - Typo
+ebay.co.uk - ebaxy.co.uk - Typo
+ebay.co.uk - ebay1.co.uk - Unknown
+ebay.co.uk - ebay2.co.uk - Typo
+ebay.co.uk - ebay6.co.uk - Typo
+ebay.co.uk - ebay7.co.uk - Typo
+ebay.co.uk - ebaya.co.uk - Unknown
+ebay.co.uk - ebayco.uk - Probably Typo
+ebay.co.uk - ebaye.co.uk - Probably Typo
+ebay.co.uk - ebayg.co.uk - Typo
+ebay.co.uk - ebayh.co.uk - Typo
+ebay.co.uk - ebayj.co.uk - Typo
+ebay.co.uk - ebays.co.uk - Malware
+ebay.co.uk - ebayy.co.uk - Unknown
+ebay.co.uk - ebaz.co.uk - Probably Typo
+ebay.co.uk - ebazy.co.uk - Typo
+ebay.co.uk - ebbay.co.uk - Typo
+ebay.co.uk - ebby.co.uk - Typo
+ebay.co.uk - ebey.co.uk - Typo
+ebay.co.uk - ebgay.co.uk - Typo
+ebay.co.uk - ebhay.co.uk - Typo
+ebay.co.uk - ebiy.co.uk - Typo
+ebay.co.uk - eblay.co.uk - Probably Typo
+ebay.co.uk - ebly.co.uk - Typo
+ebay.co.uk - ebnay.co.uk - Typo
+ebay.co.uk - ebny.co.uk - Probably TYpo
+ebay.co.uk - eboy.co.uk - Probably Typo
+ebay.co.uk - ebqy.co.uk - Typo
+ebay.co.uk - ebray.co.uk - Typo
+ebay.co.uk - ebry.co.uk - Typo
+ebay.co.uk - ebsay.co.uk - Unknown
+ebay.co.uk - ebsy.co.uk - Typo
+ebay.co.uk - ebuy.co.uk - Typo
+ebay.co.uk - ebvay.co.uk - Probably Typo
+ebay.co.uk - ebway.co.uk - Typo
+ebay.co.uk - ebwy.co.uk - Typo
+ebay.co.uk - ebxay.co.uk - Typo
+ebay.co.uk - ebxy.co.uk - Typo
+ebay.co.uk - eby.co.uk - Typo
+ebay.co.uk - ebya.co.uk - Typo
+ebay.co.uk - ebyay.co.uk - Probably Typo
+ebay.co.uk - ebzay.co.uk - Typo
+ebay.co.uk - ebzy.co.uk - Typo
+ebay.co.uk - ecay.co.uk - Typo
+ebay.co.uk - eday.co.uk - Typo
+ebay.co.uk - edbay.co.uk - Typo
+ebay.co.uk - eebay.co.uk - Typo
+ebay.co.uk - efbay.co.uk - Typo
+ebay.co.uk - egay.co.uk - Typo Phishing
+ebay.co.uk - egbay.co.uk - Typo
+ebay.co.uk - ehay.co.uk - Typo
+ebay.co.uk - ehbay.co.uk - Typo
+ebay.co.uk - ejay.co.uk - Typo
+ebay.co.uk - ekay.co.uk - Typo
+ebay.co.uk - elay.co.uk - Typo
+ebay.co.uk - emay.co.uk - Unknown
+ebay.co.uk - enay.co.uk - Typo
+ebay.co.uk - enbay.co.uk - Unknown
+ebay.co.uk - epay.co.uk - Probably Typo
+ebay.co.uk - eray.co.uk - Typo
+ebay.co.uk - erbay.co.uk - Probably Typo
+ebay.co.uk - esbay.co.uk - Typo
+ebay.co.uk - eubay.co.uk - Typo
+ebay.co.uk - evbay.co.uk - Typo
+ebay.co.uk - eway.co.uk - Typo
+ebay.co.uk - ewbay.co.uk - Probably Typo
+ebay.co.uk - gbay.co.uk - Typo Phishing
+ebay.co.uk - gebay.co.uk - Typo
+ebay.co.uk - hbay.co.uk - Typo
+ebay.co.uk - hebay.co.uk - Probably Typo
+ebay.co.uk - ibay.co.uk - Typo
+ebay.co.uk - jbay.co.uk - Unknown
+ebay.co.uk - kbay.co.uk - Typo
+ebay.co.uk - mbay.co.uk - Typo
+ebay.co.uk - mebay.co.uk - Typo
+ebay.co.uk - nbay.co.uk - Typo
+ebay.co.uk - obay.co.uk - Unknown
+ebay.co.uk - pbay.co.uk - Typo
+ebay.co.uk - pebay.co.uk - Probably Typo
+ebay.co.uk - qbay.co.uk - Probably Typo
+ebay.co.uk - rbay.co.uk - Typo
+ebay.co.uk - rebay.co.uk - Typo Phishing
+ebay.co.uk - sbay.co.uk - Probably Typo
+ebay.co.uk - sebay.co.uk - Typo Phishing
+ebay.co.uk - tbay.co.uk - Typo
+ebay.co.uk - tebay.co.uk - Typo Phishing
+ebay.co.uk - ubay.co.uk - Probably Typo
+ebay.co.uk - vbay.co.uk - Typo
+ebay.co.uk - wbay.co.uk - Unknown
+ebay.co.uk - webay.co.uk - Unknown
+ebay.co.uk - xbay.co.uk - Probably Typo
+ebay.co.uk - yebay.co.uk - Typo
+ebay.co.uk - zbay.co.uk - Typo
