@@ -416,7 +416,7 @@ quora.com - 1uora.com - Typo
 quora.com - 2quora.com - Typo
 quora.com - 2uora.com -  Typo
 quora.com - 4quora.com -  Typo
-quora.com - aquora.com -  Redirect
+quora.com - aquora.com -  Typo
 quora.com - auora.com -  Typo
 quora.com - buora.com -  Typo
 quora.com - cuora.com - Unknown
@@ -434,7 +434,7 @@ quora.com - luora.com - Typo
 quora.com - mquora.com -  Typo
 quora.com - muora.com - Unknown
 quora.com - nquora.com -  Typo
-quora.com - nuora.com - Unknonw
+quora.com - nuora.com - Typo
 quora.com - pquora.com -  Typo
 quora.com - puora.com -  Typo
 quora.com - q.uora.com -  Typo
@@ -443,23 +443,23 @@ quora.com - q7ora.com - Typo
 quora.com - q7uora.com - Typo
 quora.com - q8ora.com - Typo
 quora.com - q8uora.com - Typo
-quora.com - qaora.com - Typo
-quora.com - qauora.com - Typo
+quora.com - qaora.com - Redirect
+quora.com - qauora.com - Redirect
 quora.com - qbora.com - Typo
 quora.com - qcora.com - Typo
 quora.com - qdora.com - Typo 
-quora.com - qeora.com - Typo
+quora.com - qeora.com - Redirect
 quora.com - qfora.com - Typo
 quora.com - qhora.com - Typo
-quora.com - qhuora.com - Typo
+quora.com - qhuora.com - Redirect
 quora.com - qiora.com -  Typo
-quora.com - qiuora.com - Typo
-quora.com - qjora.com - Typo
+quora.com - qiuora.com - Redirect
+quora.com - qjora.com - Redirect
 quora.com - qjuora.com - Typo
 quora.com - qkora.com - Typo
 quora.com - qkuora.com - Typo
-quora.com - qmora.com - Malware
-quora.com - qnora.com - Malware
+quora.com - qmora.com - Typo
+quora.com - qnora.com - Typo
 quora.com - qoora.com -  Typo
 quora.com - qora.com -  Typo
 quora.com - qouora.com -  Typo
@@ -467,11 +467,11 @@ quora.com - qoura.com -  Typo
 quora.com - qpora.com - Typo
 quora.com - qqora.com - Typo
 quora.com - qquora.com - Typo
-quora.com - qsora.com - Typo
-quora.com - qsuora.com - Typo
+quora.com - qsora.com - Redirect
+quora.com - qsuora.com - Unknown
 quora.com - qtora.com - Typo
 quora.com - qu0ora.com - Typo
-quora.com - qu0ra.com - Typo
+quora.com - qu0ra.com - Redirect
 quora.com - qu8ora.com - Typo
 quora.com - qu9ora.com - Typo
 quora.com - qu9ra.com - Typo
@@ -480,13 +480,13 @@ quora.com - quara.com - Typo
 quora.com - qubora.com - Typo
 quora.com - qubra.com -  Typo
 quora.com - qudora.com - Typo
-quora.com - qudra.com - Unknown
+quora.com - qudra.com - Typo
 quora.com - queora.com -  Typo
 quora.com - quera.com - Typo
 quora.com - qufora.com - Typo
 quora.com - qufra.com - Unknown
 quora.com - qugra.com -  Typo
-quora.com - quhora.com - Typo
+quora.com - quhora.com - Redirect
 quora.com - quhra.com -  Typo
 quora.com - quiora.com - Typo
 quora.com - quira.com -  Typo
@@ -494,7 +494,7 @@ quora.com - qujora.com - Typo
 quora.com - qukora.com - Typo
 quora.com - qukra.com - Typo
 quora.com - qulora.com - Typo
-quora.com - qulra.com - Unknown
+quora.com - qulra.com - Typo
 quora.com - qumora.com - Typo
 quora.com - qumra.com - Typo
 quora.com - qunora.com -  Typo
@@ -504,8 +504,8 @@ quora.com - quo4ra.com - Typo
 quora.com - quo5a.com - Typo
 quora.com - quo5ra.com - Typo
 quora.com - quo9ra.com - Typo
-quora.com - quoa.com - Unknown
-quora.com - quoaa.com -  Redirect
+quora.com - quoa.com - Typo
+quora.com - quoaa.com -  Typo
 quora.com - quoar.com -  Typo
 quora.com - quoara.com -  Typo
 quora.com - quoba.com - Typo
@@ -1505,16 +1505,16 @@ cbsnews.com - cbznews.com - Typo
 cbsnews.com - ccbsnews.com - Typo
 cbsnews.com - ccsnews.com -  Typo
 cbsnews.com - cdsnews.com -  Typo
-cbsnews.com - cesnews.com - Typo Phishing
+cbsnews.com - cesnews.com - Typo
 cbsnews.com - cfsnews.com - Typo
-cbsnews.com - cgsnews.com - Typo Phishing
+cbsnews.com - cgsnews.com - Typo
 cbsnews.com - chsnews.com - Typo
 cbsnews.com - cibsnews.com - Malware
-cbsnews.com - cisnews.com - Typo Phishing
+cbsnews.com - cisnews.com - Typo
 cbsnews.com - cksnews.com -  Redirect
 cbsnews.com - clbsnews.com - Unknown
 cbsnews.com - clsnews.com - Typo
-cbsnews.com - cmsnews.com - Typo Phishing
+cbsnews.com - cmsnews.com - Typo
 cbsnews.com - cnbsnews.com -  Typo
 cbsnews.com - cnsnews.com -  Typo
 cbsnews.com - cosnews.com - Typo
@@ -1533,7 +1533,7 @@ cbsnews.com - cxsnews.com - Typo
 cbsnews.com - cybsnews.com - Unknown
 cbsnews.com - cysnews.com -  Typo
 cbsnews.com - dbsnews.com -  Typo
-cbsnews.com - ebsnews.com - Typo Phishing
+cbsnews.com - ebsnews.com - Typo
 cbsnews.com - fbsnews.com - Typo 
 cbsnews.com - gbsnews.com -  Typo
 cbsnews.com - hbsnews.com - Malware
@@ -1552,7 +1552,7 @@ cbsnews.com - qbsnews.com - Typo
 cbsnews.com - rbsnews.com - Typo
 cbsnews.com - sbsnews.com -  Typo
 cbsnews.com - tbsnews.com -  Typo
-cbsnews.com - vbsnews.com - Typo Phishing
+cbsnews.com - vbsnews.com - Typo
 cbsnews.com - vcbsnews.com - Typo
 cbsnews.com - wbsnews.com -  Typo
 cbsnews.com - wcbsnews.com - Typo
@@ -1571,7 +1571,7 @@ bab.la - bac.la -  Typo
 bab.la - bad.la - Unknown
 bab.la - bae.la -  Typo
 bab.la - bah.la -  Typo
-bab.la - bai.la - Typo Phishing
+bab.la - bai.la - Typo
 bab.la - bak.la - Typo
 bab.la - bal.la - Malware
 bab.la - ban.la - Malware
@@ -1663,7 +1663,7 @@ wordreference.com - wordreferencs.com - Malware
 wordreference.com - wordreferencw.com -  Typo
 wordreference.com - wordreferene.com - Unknown
 wordreference.com - wordreferenece.com -  Typo
-wordreference.com - wordreferennce.com - Typo Phishing
+wordreference.com - wordreferennce.com - Typo
 wordreference.com - wordreferense.com -  Typo
 wordreference.com - wordreferente.com -  Typo
 wordreference.com - wordreferenxe.com -  Typo
@@ -1714,19 +1714,19 @@ europa.eu - eiropa.eu - Unknown
 europa.eu - enropa.eu - Typo
 europa.eu - epropa.eu - Typo
 europa.eu - eropa.eu - Unknown
-europa.eu - eruopa.eu - Typo Phishing
+europa.eu - eruopa.eu - Typo
 europa.eu - eucopa.eu - Typo
 europa.eu - eueopa.eu - Typo
 europa.eu - eufopa.eu - Unknown
 europa.eu - euiopa.eu - Typo
 europa.eu - euopa.eu -  Redirect
 europa.eu - euoropa.eu - Unknown
-europa.eu - euorpa.eu - Typo Phishing 
+europa.eu - euorpa.eu - Typo 
 europa.eu - eur.opa.eu - Unknonw
 europa.eu - eur0pa.eu - Unknown
 europa.eu - eurapa.eu -  Typo
 europa.eu - eurepa.eu - Typo
-europa.eu - euripa.eu - Typo Phishing
+europa.eu - euripa.eu - Typo
 europa.eu - eurmpa.eu - Typo
 europa.eu - euroa.eu - Typo
 europa.eu - euroda.eu - Unknown
@@ -1734,13 +1734,13 @@ europa.eu - eurofa.eu - Typo
 europa.eu - euroha.eu - Typo
 europa.eu - euroia.eu - Typo
 europa.eu - euroka.eu - Typo
-europa.eu - eurola.eu - Typo Phishing
+europa.eu - eurola.eu - Typo
 europa.eu - euroma.eu - Typo
 europa.eu - eurona.eu - Typo
 europa.eu - eurooa.eu -  Typo
 europa.eu - euroopa.eu - Unknown
-europa.eu - europ.eu - Typo Phishing
-europa.eu - europ�.eu - Typo Phishing
+europa.eu - europ.eu - Typo
+europa.eu - europ�.eu - Typo
 europa.eu - europa1.eu -  Typo
 europa.eu - europa4.eu - Typo
 europa.eu - europaa.eu - Typo
@@ -1756,15 +1756,15 @@ europa.eu - europaq.eu - Typo
 europa.eu - europas.eu - Typo
 europa.eu - europax.eu - Unknown
 europa.eu - europay.eu - Typo
-europa.eu - europaz.eu - Typo Phishing
-europa.eu - europb.eu - Typo Phishing
+europa.eu - europaz.eu - Typo
+europa.eu - europb.eu - Typo
 europa.eu - europd.eu - Typo
 europa.eu - europea.eu -  Typo
 europa.eu - europh.eu - Typo
 europa.eu - europi.eu - Typo
 europa.eu - europia.eu - Typo
 europa.eu - europm.eu -  Typo
-europa.eu - europo.eu - Typo Phishing
+europa.eu - europo.eu - Typo
 europa.eu - europoa.eu -  Typo
 europa.eu - europp.eu -  Typo
 europa.eu - europpa.eu - Typo
@@ -1775,7 +1775,7 @@ europa.eu - eurosa.eu - Typo
 europa.eu - eurospa.eu - Typo
 europa.eu - eurota.eu - Typo
 europa.eu - euroua.eu - Typo
-europa.eu - euroupa.eu - Typo Phishing
+europa.eu - euroupa.eu - Typo
 europa.eu - eurowa.eu - Typo
 europa.eu - euroza.eu - Typo
 europa.eu - eurpa.eu -  Typo
@@ -1790,7 +1790,7 @@ europa.eu - evuropa.eu -  Redirect
 europa.eu - ewropa.eu -  Typo
 europa.eu - eyropa.eu - Typo
 europa.eu - ezropa.eu - Typo
-europa.eu - heuropa.eu - Typo Phishing
+europa.eu - heuropa.eu - Typo
 europa.eu - iuropa.eu -  Typo
 europa.eu - leuropa.eu -  Typo
 europa.eu - neuropa.eu - Typo
@@ -1812,7 +1812,7 @@ genius.com - 8genius.com - Typo
 genius.com - 9enius.com - Typo
 genius.com - agenius.com - Typo
 genius.com - benius.com - Typo
-genius.com - bgenius.com - Typo Phishing
+genius.com - bgenius.com - Typo
 genius.com - cenius.com - Unknown
 genius.com - denius.com -  Typo
 genius.com - dgenius.com -  Typo
@@ -1830,9 +1830,9 @@ genius.com - gcnius.com - Typo
 genius.com - gdnius.com -  Typo
 genius.com - geanius.com - Typo
 genius.com - gebius.com - Malware
-genius.com - gecius.com - Typo Phishing
+genius.com - gecius.com - Typo
 genius.com - gedius.com - Typo
-genius.com - geenius.com - Typo Phishing
+genius.com - geenius.com - Typo
 genius.com - geinus.com - Typo
 genius.com - geius.com -  Typo
 genius.com - gekius.com - Typo
@@ -1845,10 +1845,10 @@ genius.com - gen3us.com - Typo
 genius.com - gen4us.com -  Typo
 genius.com - genaius.com -  Typo
 genius.com - genaus.com - Typo
-genius.com - genbus.com - Typo Phishing
+genius.com - genbus.com - Typo
 genius.com - gencus.com - Typo
 genius.com - gendius.com - Typo
-genius.com - gendus.com - Typo Phishing
+genius.com - gendus.com - Typo
 genius.com - geneius.com - Typo
 genius.com - geneus.com -  Typo
 genius.com - gengius.com - Malware
@@ -1873,7 +1873,7 @@ genius.com - genins.com - Typo
 genius.com - geninus.com - Typo
 genius.com - genios.com - Typo
 genius.com - genious.com - Typo
-genius.com - genips.com - Typo Phishing
+genius.com - genips.com - Typo
 genius.com - genipus.com -  Typo
 genius.com - geniqs.com -  Typo
 genius.com - geniqus.com - Typo
@@ -1895,7 +1895,7 @@ genius.com - geniues.com - Typo
 genius.com - geniuf.com -  Typo
 genius.com - geniuh.com -  Typo
 genius.com - geniuis.com -  Typo
-genius.com - geniul.com - Typo Phishing
+genius.com - geniul.com - Typo
 genius.com - geniuls.com - Typo
 genius.com - geniums.com -  Typo
 genius.com - geniun.com - Typo
@@ -1909,7 +1909,7 @@ genius.com - genus.com -  Redirect
 genius.com - genius0.com -  Typo
 genius.com - genius1.com -  Typo
 genius.com - genius2.com - Typo
-genius.com - genius3.com - Typo Phishing
+genius.com - genius3.com - Typo
 genius.com - genius4.com - Typo
 genius.com - genius5.com - Typo
 genius.com - genius7.com -  Typo
@@ -1936,9 +1936,9 @@ genius.com - geniuss.com -  Typo
 genius.com - geniust.com - Typo
 genius.com - geniusu.com - Typo
 genius.com - geniusv.com - Typo
-genius.com - geniusw.com - Typo Phishing
+genius.com - geniusw.com - Typo
 genius.com - geniusx.com - Typo
-genius.com - geniusy.com - Typo Phishing
+genius.com - geniusy.com - Typo
 genius.com - geniusz.com - Typo
 genius.com - geniuts.com -  Typo
 genius.com - geniuu.com - Typo
@@ -1955,12 +1955,12 @@ genius.com - genlius.com -  Typo
 genius.com - genlus.com -  Redirect
 genius.com - genmus.com - Unkown
 genius.com - gennius.com - Typo
-genius.com - gennus.com - Typo Phishing
+genius.com - gennus.com - Typo
 genius.com - genoius.com - Typo
 genius.com - genous.com - Typo
 genius.com - genrus.com - Unkown
 genius.com - gensius.com - Typo
-genius.com - gensus.com - Typo Phishing
+genius.com - gensus.com - Typo
 genius.com - gentus.com - Typo
 genius.com - genuis.com - Malware
 genius.com - genuus.com - Typo
@@ -2120,7 +2120,7 @@ ebay.co.uk - eday.co.uk - Typo
 ebay.co.uk - edbay.co.uk - Typo
 ebay.co.uk - eebay.co.uk - Typo
 ebay.co.uk - efbay.co.uk - Typo
-ebay.co.uk - egay.co.uk - Typo Phishing
+ebay.co.uk - egay.co.uk - Typo
 ebay.co.uk - egbay.co.uk - Typo
 ebay.co.uk - ehay.co.uk - Typo
 ebay.co.uk - ehbay.co.uk - Typo
@@ -2138,7 +2138,7 @@ ebay.co.uk - eubay.co.uk - Typo
 ebay.co.uk - evbay.co.uk - Typo
 ebay.co.uk - eway.co.uk - Typo
 ebay.co.uk - ewbay.co.uk -  Typo
-ebay.co.uk - gbay.co.uk - Typo Phishing
+ebay.co.uk - gbay.co.uk - Typo
 ebay.co.uk - gebay.co.uk - Typo
 ebay.co.uk - hbay.co.uk - Typo
 ebay.co.uk - hebay.co.uk -  Typo
@@ -2153,11 +2153,11 @@ ebay.co.uk - pbay.co.uk - Typo
 ebay.co.uk - pebay.co.uk -  Typo
 ebay.co.uk - qbay.co.uk -  Typo
 ebay.co.uk - rbay.co.uk - Typo
-ebay.co.uk - rebay.co.uk - Typo Phishing
+ebay.co.uk - rebay.co.uk - Typo
 ebay.co.uk - sbay.co.uk -  Typo
-ebay.co.uk - sebay.co.uk - Typo Phishing
+ebay.co.uk - sebay.co.uk - Typo
 ebay.co.uk - tbay.co.uk - Typo
-ebay.co.uk - tebay.co.uk - Typo Phishing
+ebay.co.uk - tebay.co.uk - Typo
 ebay.co.uk - ubay.co.uk -  Typo
 ebay.co.uk - vbay.co.uk - Typo
 ebay.co.uk - wbay.co.uk - Unknown
@@ -2171,7 +2171,7 @@ latimes.com - atimes.com - Typo
 latimes.com - batimes.com - Typo
 latimes.com - catimes.com - Typo
 latimes.com - datimes.com - Typo
-latimes.com - dlatimes.com - Typo Phishing
+latimes.com - dlatimes.com - Typo
 latimes.com - eatimes.com - Typo
 latimes.com - elatimes.com - Typo
 latimes.com - fatimes.com - Typo
@@ -2193,7 +2193,7 @@ latimes.com - lagimes.com - Typo
 latimes.com - lagtimes.com -  Typo
 latimes.com - lahimes.com - Malware
 latimes.com - laimes.com -  Typo
-latimes.com - laitimes.com - Typo Phishing
+latimes.com - laitimes.com - Typo
 latimes.com - laitmes.com -  Typo
 latimes.com - lalimes.com - Typo
 latimes.com - laltimes.com -  Typo
@@ -2201,7 +2201,7 @@ latimes.com - lanimes.com - Unknown
 latimes.com - lantimes.com - Typo
 latimes.com - laotimes.com - Typo
 latimes.com - larimes.com -  Typo
-latimes.com - lartimes.com - Typo Phishing
+latimes.com - lartimes.com - Typo
 latimes.com - lastimes.com - Typo
 latimes.com - lataimes.com - Typo
 latimes.com - latames.com - Typo
@@ -2221,7 +2221,7 @@ latimes.com - latimds.com - Typo
 latimes.com - latime.com -  Typo
 latimes.com - latimea.com -  Typo
 latimes.com - latimed.com - Typo
-latimes.com - latimeds.com - Typo Phishing
+latimes.com - latimeds.com - Unknown
 latimes.com - latimee.com - Typo
 latimes.com - latimees.com -  Typo
 latimes.com - latimei.com -  Typo
@@ -2274,7 +2274,7 @@ latimes.com - llatimes.com - Typo
 latimes.com - lmtimes.com - Typo
 latimes.com - lntimes.com - Typo
 latimes.com - lotimes.com - Typo
-latimes.com - lptimes.com - Typo Phishing
+latimes.com - lptimes.com - Typo
 latimes.com - lsatimes.com - Typo
 latimes.com - lstimes.com - Typo
 latimes.com - ltaimes.com - Typo
@@ -2465,7 +2465,7 @@ temu.com - tedmu.com - Typo
 temu.com - tedu.com - Malware
 temu.com - teemu.com -  Redirect
 temu.com - tefmu.com - Typo
-temu.com - tefu.com - Typo Phishing
+temu.com - tefu.com - Typo
 temu.com - tegmu.com - Unknown
 temu.com - tegu.com - Typo
 temu.com - tehmu.com - Unknown
@@ -2497,7 +2497,7 @@ temu.com - tembu.com - Typo
 temu.com - temc.com - Typo
 temu.com - temcu.com - Typo
 temu.com - temd.com - Typo
-temu.com - temdu.com - Typo Phishing
+temu.com - temdu.com - Typo
 temu.com - teme.com - Typo
 temu.com - temeu.com -  Typo
 temu.com - temf.com -  Typo
@@ -2518,13 +2518,13 @@ temu.com - temo.com -  Typo
 temu.com - temou.com - Typo
 temu.com - temp.com - Unknown
 temu.com - tempu.com -  Typo
-temu.com - temq.com - Typo Phishing
+temu.com - temq.com - Typo
 temu.com - temr.com -  Typo
 temu.com - temru.com -  Typo
 temu.com - tems.com - Typo
 temu.com - temsu.com - Typo
 temu.com - temtu.com - Typo
-temu.com - tem�.com - Typo Phishing
+temu.com - tem�.com - Typo
 temu.com - temu0.com - Unknown
 temu.com - temu1.com - Unknown
 temu.com - temu2.com - Unknown
@@ -2565,7 +2565,7 @@ temu.com - tenmu.com - Typo
 temu.com - tepu.com - Typo
 temu.com - tequ.com - Malware
 temu.com - termu.com - Typo
-temu.com - teru.com - Typo Phishing
+temu.com - teru.com - Typo
 temu.com - tesmu.com -  Typo
 temu.com - tesu.com -  Typo
 temu.com - tetu.com - Typo
@@ -2621,7 +2621,7 @@ temu.com - vemu.com - Typo
 temu.com - vtemu.com - Typo
 temu.com - wemu.com - Malware
 temu.com - wtemu.com - Typo
-temu.com - xemu.com - Typo Phishing
+temu.com - xemu.com - Typo
 temu.com - xtemu.com - Typo
 temu.com - yemu.com - Unknown
 temu.com - ytemu.com -  Typo
@@ -2646,10 +2646,10 @@ justdial.com - justdail.com - Typo
 justdial.com - justdal.com -  Typo
 justdial.com - justdeal.com - Typo
 justdial.com - justdia.com - Unknown
-justdial.com - justdial3.com - Typo Phishing
+justdial.com - justdial3.com - Typo
 justdial.com - justdial4.com - Typo
-justdial.com - justdial7.com - Typo Phishing
-justdial.com - justdial8.com - Typo Phishing
+justdial.com - justdial7.com - Typo
+justdial.com - justdial8.com - Typo 
 justdial.com - justdial9.com - Unknown
 justdial.com - justdiall.com - Typo
 justdial.com - justdials.com - Typo
@@ -2790,7 +2790,7 @@ craigslist.org - draigslist.org - Typo
 craigslist.org - ecraigslist.org -  Typo
 craigslist.org - fcraigslist.org - Unknown
 craigslist.org - gcraigslist.org - Typo
-craigslist.org - graigslist.org - Typo phishing
+craigslist.org - graigslist.org - Typo
 craigslist.org - hcraigslist.org - Unknown
 craigslist.org - kraigslist.org -  Typo
 craigslist.org - lcraigslist.org - Malware
@@ -2817,7 +2817,7 @@ pixabay.com - piaxbay.com - Typo
 pixabay.com - picabay.com -  Typo
 pixabay.com - picxabay.com -  Typo
 pixabay.com - piixabay.com -  Typo
-pixabay.com - pikabay.com - Typo Phishing
+pixabay.com - pikabay.com - Typo
 pixabay.com - pipabay.com - Malware
 pixabay.com - pirabay.com -  Typo
 pixabay.com - pisabay.com - Unknown
@@ -2867,7 +2867,7 @@ pixabay.com - pixaray.com - Typo
 pixabay.com - pixarbay.com -  Typo
 pixabay.com - pixasbay.com - Typo
 pixabay.com - pixavay.com -  Typo
-pixabay.com - pixaway.com - Typo Phishing
+pixabay.com - pixaway.com - Typo
 pixabay.com - pixaxbay.com - Unknown
 pixabay.com - pixaybay.com -  Typo
 pixabay.com - pixbay.com -  Typo
@@ -2982,7 +2982,7 @@ wsj.com - wj.com - Malware
 wsj.com - wjj.com - Unknown
 wsj.com - wjs.com - Malware
 wsj.com - wjsj.com - Malware
-wsj.com - wksj.com - Typo Phishing
+wsj.com - wksj.com - Typo
 wsj.com - wlj.com - Typo
 wsj.com - wlsj.com - Typo
 wsj.com - wmj.com - Malware
@@ -2997,7 +2997,7 @@ wsj.com - ws1.com - Typo
 wsj.com - ws2.com - Unknown
 wsj.com - ws3.com - Typo
 wsj.com - ws4.com - Typo
-wsj.com - ws4j.com - Typo Phishing
+wsj.com - ws4j.com - Unknown
 wsj.com - ws5.com - Typo
 wsj.com - ws6.com - Typo
 wsj.com - ws7j.com - Malware
@@ -3031,10 +3031,10 @@ wsj.com - wsja.com -  Typo
 wsj.com - wsjb.com - Typo
 wsj.com - wsjc.com - Unknown
 wsj.com - wsjd.com -  Redirect
-wsj.com - wsje.com - Typo Phishing
+wsj.com - wsje.com - Typo
 wsj.com - wsjf.com - Typo
 wsj.com - wsji.com -  Typo
-wsj.com - wsjj.com - Typo Phishing
+wsj.com - wsjj.com - Typo
 wsj.com - wsjk.com - Typo
 wsj.com - wsjl.com - Unknown
 wsj.com - wsjm.com - Typo
@@ -3090,7 +3090,7 @@ wsj.com - wzj.com - Malware
 wsj.com - xsj.com - Unknown
 wsj.com - xwsj.com - Malware
 wsj.com - ywsj.com - Unknown
-wsj.com - zsj.com - Typo Phishing
+wsj.com - zsj.com - Typo 
 wsj.com - zwsj.com - Malware
 globo.com - 0globo.com - Typo
 globo.com - 1globo.com -  Typo
@@ -3172,7 +3172,7 @@ globo.com - globc.com - Typo
 globo.com - globco.com - Typo
 globo.com - globdo.com - Typo
 globo.com - globeo.com - Typo
-globo.com - globf.com - Typo Phishing
+globo.com - globf.com - Typo
 globo.com - globfo.com - Typo
 globo.com - globg.com - Typo
 globo.com - globgo.com - Typo
@@ -3187,7 +3187,7 @@ globo.com - globlo.com - Typo
 globo.com - globm.com - Typo
 globo.com - globn.com -  Typo
 globo.com - globno.com -  TYpo
-globo.com - lobo.com - Typo Phishing
+globo.com - lobo.com - Typo
 globo.com - globo0.com - Typo
 globo.com - globo1.com -  Redirect
 globo.com - globo2.com -  Typo
@@ -3207,7 +3207,7 @@ globo.com - globof.com - Typo
 globo.com - globog.com - Typo
 globo.com - globoh.com - Typo
 globo.com - globoj.com - Typo
-globo.com - globok.com - Typo Phishing
+globo.com - globok.com - Typo
 globo.com - globol.com - Typo
 globo.com - globom.com -  Typo
 globo.com - globon.com -  Redirect
@@ -3216,7 +3216,7 @@ globo.com - globop.com -  Typo
 globo.com - globoq.com - Typo
 globo.com - globor.com - Typo
 globo.com - globos.com - Typo
-globo.com - globot.com - Typo Phishing
+globo.com - globot.com - Typo
 globo.com - globou.com - Typo
 globo.com - globov.com - Typo
 globo.com - globow.com - Typo
@@ -3262,7 +3262,7 @@ globo.com - glombo.com - Unknown
 globo.com - glomo.com - Typo
 globo.com - glonbo.com - Typo
 globo.com - glono.com - Typo
-globo.com - gloo.com - Typo Phishing
+globo.com - gloo.com - Typo
 globo.com - gloob.com - Typo
 globo.com - gloobo.com - Typo
 globo.com - glooo.com - Typo
@@ -3354,7 +3354,7 @@ crunchbase.com - crunc.hbase.com - Typo
 crunchbase.com - crunchabase.com - Typo
 crunchbase.com - crunchabse.com -  Typo
 crunchbase.com - crunchase.com - Typo
-crunchbase.com - crunchb.ase.com - Typo Phishing
+crunchbase.com - crunchb.ase.com - Typo 
 crunchbase.com - crunchbabe.com - Typo
 crunchbase.com - crunchbae.com -  Redirect
 crunchbase.com - crunchbas.com -  Typo
@@ -3372,7 +3372,7 @@ crunchbase.com - cunchbase.com - Typo
 crunchbase.com - curnchbase.com -  Typo
 crunchbase.com - runchbase.com -  Typo
 crunchbase.com - scrunchbase.com - Typo
-frontiersin.org - forntiersin.org - Typo Phishing
+frontiersin.org - forntiersin.org - Typo 
 frontiersin.org - fronteirsin.org - Typo
 frontiersin.org - frontersin.org -  Typo
 frontiersin.org - frontierin.org - Typo
@@ -3400,7 +3400,7 @@ frontiersin.org - frontiersinn.org - Typo
 123rf.com - 123kf.com - Unknown
 123rf.com - 123lf.com - Malware
 123rf.com - 123mf.com - Typo
-123rf.com - 123nf.com - Typo Phishing
+123rf.com - 123nf.com - Typo 
 123rf.com - 123of.com - Malware
 123rf.com - 123pf.com - Malware
 123rf.com - 123qf.com - Typo
@@ -3439,7 +3439,7 @@ frontiersin.org - frontiersinn.org - Typo
 123rf.com - 123ry.com - Typo
 123rf.com - 123rz.com - Typo
 123rf.com - 123tf.com - Malware
-123rf.com - 123uf.com - Typo Phishing
+123rf.com - 123uf.com - Typo 
 123rf.com - 123wf.com - Unknown
 123rf.com - 123yf.com - Malware
 123rf.com - 124rf.com -  Typo
@@ -3488,7 +3488,7 @@ statista.com - statistai.com - Typo
 statista.com - statistal.com - Unknown
 statista.com - statistam.com - Typo
 statista.com - statistaq.com - Typo
-statista.com - statistar.com - Typo Phishing
+statista.com - statistar.com - Typo 
 statista.com - statistas.com -  Typo
 statista.com - statistax.com - Typo
 statista.com - statistca.com - Typo
@@ -3537,7 +3537,7 @@ womenshealthmag.com - womensheaithmag.com -  Typo
 womenshealthmag.com - womensheakthmag.com -  Typo
 womenshealthmag.com - womenshealrhmag.com -  Typo
 womenshealthmag.com - womenshealtgmag.com -  Typo
-womenshealthmag.com - womenshealthamg.com - Typo Phishing
+womenshealthmag.com - womenshealthamg.com - Typo 
 womenshealthmag.com - womenshealthbag.com - Typo
 womenshealthmag.com - womenshealthma.com - Typo
 womenshealthmag.com - womenshealthmagi.com - Typo
@@ -3559,7 +3559,7 @@ womenshealthmag.com - womwnshealthmag.com -  Typo
 womenshealthmag.com - woomenshealthmag.com -  Typo
 womenshealthmag.com - wosmenshealthmag.com -  Typo
 nextdoor.com - bextdoor.com -  Typo
-nextdoor.com - enextdoor.com - Typo Phishing
+nextdoor.com - enextdoor.com - Typo 
 nextdoor.com - enxtdoor.com - Typo
 nextdoor.com - extdoor.com - Typo
 nextdoor.com - gnextdoor.com - Typo
@@ -3585,7 +3585,7 @@ nextdoor.com - netxtdoor.com -  Typo
 nextdoor.com - newxtdoor.com -  Typo
 nextdoor.com - nex.tdoor.com - Unknown
 nextdoor.com - nexadoor.com - Typo
-nextdoor.com - nexdoor.com - Typo Phishing
+nextdoor.com - nexdoor.com - Typo 
 nextdoor.com - nexdtoor.com -  Typo
 nextdoor.com - nexfdoor.com - Typo
 nextdoor.com - nexgdoor.com - Typo
@@ -3709,7 +3709,7 @@ theconversation.com - theconversatikn.com - Typo
 theconversation.com - theconversatin.com - Typo
 theconversation.com - theconversatio.com - Unknown
 theconversation.com - theconversatiom.com - Typo
-theconversation.com - theconversation2.com - Typo Phishing
+theconversation.com - theconversation2.com - Typo 
 theconversation.com - theconversations.com - Typo
 theconversation.com - theconversaton.com - Typo
 theconversation.com - theconversaytion.com - Typo
@@ -3800,7 +3800,7 @@ hubspot.com - hubspott.com - Typo
 hubspot.com - hubspoty.com - Typo
 hubspot.com - hubspotz.com - Typo
 hubspot.com - hubspoy.com - Typo
-hubspot.com - hubspo.com - Typo Phishing
+hubspot.com - hubspo.com - Typo 
 hubspot.com - hubsppot.com - Typo
 hubspot.com - hubsppt.com - Typo
 hubspot.com - hubspsot.com - Unknown
@@ -3809,7 +3809,7 @@ hubspot.com - hubspto.com - Typo
 hubspot.com - hubsspot.com - Typo
 hubspot.com - hubstot.com - Unknown
 hubspot.com - hubstpot.com - Unknown
-hubspot.com - hubswot.com - Typo Phishing
+hubspot.com - hubswot.com - Typo 
 hubspot.com - hubwpot.com -  Redirect
 hubspot.com - hubxpot.com - Typo
 hubspot.com - hudspot.com - Unknown
@@ -3962,7 +3962,7 @@ lemonde.fr - memonde.fr - Typo
 lemonde.fr - mlemonde.fr - Typo
 movieweb.com - emovieweb.com - Typo
 movieweb.com - imovieweb.com - Typo
-movieweb.com - mdovieweb.com - Typo Phishing
+movieweb.com - mdovieweb.com - Typo 
 movieweb.com - mo.vieweb.com - Typo
 movieweb.com - mobieweb.com - Typo
 movieweb.com - moveiweb.com - Typo
@@ -3993,7 +3993,7 @@ movieweb.com - moxieweb.com - Typo
 movieweb.com - mrvieweb.com - Unknown
 movieweb.com - novieweb.com - Typo
 elmundo.es - 3lmundo.es - Typo
-elmundo.es - delmundo.es - Typo Phishing
+elmundo.es - delmundo.es - Typo 
 elmundo.es - dlmundo.es - Typo
 elmundo.es - e.lmundo.es -  Typo
 elmundo.es - edlmundo.es - Typo
@@ -4020,7 +4020,7 @@ elmundo.es - elmondo.es - Typo
 elmundo.es - elmubdo.es - Typo
 elmundo.es - elmubndo.es - Typo
 elmundo.es - elmudndo.es - Typo
-elmundo.es - elmudo.es - Typo Phishing
+elmundo.es - elmudo.es - Typo 
 elmundo.es - elmuhdo.es - Typo
 elmundo.es - elmujndo.es - Typo
 elmundo.es - elmumdo.es -  Typo
@@ -4062,7 +4062,7 @@ elmundo.es - enmundo.es -  Typo
 elmundo.es - eomundo.es - Typo
 elmundo.es - erlmundo.es - Typo
 elmundo.es - eslmundo.es - Typo
-elmundo.es - eumundo.es - Typo Phishing
+elmundo.es - eumundo.es - Typo 
 elmundo.es - lemundo.es - Typo
 elmundo.es - lmundo.es -  Typo
 elmundo.es - rlmundo.es -  Typo
@@ -4070,7 +4070,7 @@ elmundo.es - slmundo.es - Typo
 elmundo.es - welmundo.es - Typo
 elmundo.es - wlmundo.es - Typo
 elmundo.es - xelmundo.es - Typo
-harpersbazaar.com - hampersbazaar.com - Typo Phishing
+harpersbazaar.com - hampersbazaar.com - Typo 
 harpersbazaar.com - hapersbazaar.com - Malware
 harpersbazaar.com - haprersbazaar.com - Typo
 harpersbazaar.com - harersbazaar.com - Typo
@@ -4090,12 +4090,12 @@ harpersbazaar.com - harpersbazaare.com - Unknown
 harpersbazaar.com - harpersbazaarg.com - Unknown
 harpersbazaar.com - harpersbazaarr.com - Unknown
 harpersbazaar.com - harpersbazaarv.com - Malware
-harpersbazaar.com - harpersbazar.com - Typo Phishing
-harpersbazaar.com - harpersbazsar.com - Typo Phishing
+harpersbazaar.com - harpersbazar.com - Typo 
+harpersbazaar.com - harpersbazsar.com - Typo 
 harpersbazaar.com - harpersbazzaar.com -  Typo
 harpersbazaar.com - harpersbazzar.com -  Typo
 harpersbazaar.com - harpersbzaar.com - Typo
-harpersbazaar.com - harperzbazaar.com - Typo Phishing
+harpersbazaar.com - harperzbazaar.com - Typo 
 harpersbazaar.com - harpetsbazaar.com - Unknown
 harpersbazaar.com - harprsbazaar.com - Typo
 harpersbazaar.com - hrpersbazaar.com - Typo
@@ -4107,10 +4107,10 @@ tistory.com - distory.com - Typo
 tistory.com - fistory.com -  Typo
 tistory.com - gistory.com - Typo
 tistory.com - history.com - Typo
-tistory.com - iistory.com - Typo Phishing
+tistory.com - iistory.com - Typo 
 tistory.com - itstory.com -  Typo
 tistory.com - jistory.com - Typo
-tistory.com - kistory.com - Typo Phishing
+tistory.com - kistory.com - Typo 
 tistory.com - listory.com - Typo
 tistory.com - nistory.com - Typo
 tistory.com - oistory.com - Typo
@@ -4127,8 +4127,8 @@ tistory.com - tbstory.com - Malware
 tistory.com - tcstory.com - Typo
 tistory.com - testory.com - Typo
 tistory.com - tfstory.com - Typo
-tistory.com - tgstory.com - Typo Phishing
-tistory.com - thistory.com - Typo Phishing
+tistory.com - tgstory.com - Typo 
+tistory.com - thistory.com - Typo 
 tistory.com - thstory.com - Typo
 tistory.com - ti1story.com - Typo
 tistory.com - tiastory.com - Typo
@@ -4238,7 +4238,7 @@ newyorker.com - mnewyorker.com -  Typo
 newyorker.com - n.ewyorker.com - Typo
 newyorker.com - neewyorker.com - Typo
 newyorker.com - neeyorker.com - Typo
-newyorker.com - neoyorker.com - Typo Phishing
+newyorker.com - neoyorker.com - Typo 
 newyorker.com - nerwyorker.com -  Typo
 newyorker.com - neryorker.com -  Typo
 newyorker.com - netyorker.com - Unknown
@@ -4248,7 +4248,7 @@ newyorker.com - newborker.com - Typo
 newyorker.com - newcorker.com - Typo
 newyorker.com - newdorker.com - Typo
 newyorker.com - neweyorker.com -  Typo
-newyorker.com - newforker.com - Typo Phishing
+newyorker.com - newforker.com - Typo 
 newyorker.com - newhorker.com - Typo
 newyorker.com - newhyorker.com -  Typo
 newyorker.com - newjorker.com - Typo
@@ -4276,7 +4276,7 @@ newyorker.com - newyorkar.com - Typo
 newyorker.com - newyorkcr.com - Typo
 newyorker.com - newyorkder.com -  Typo
 newyorker.com - newyorkdr.com - Typo
-newyorker.com - newyorke.com - Typo Phishing
+newyorker.com - newyorke.com - Typo 
 newyorker.com - newyorkear.com - Typo
 newyorker.com - newyorkec.com - Typo
 newyorker.com - newyorked.com - Typo
@@ -4388,12 +4388,12 @@ xbox.com - ixbox.com - Typo
 xbox.com - jbox.com - Typo
 xbox.com - jxbox.com - Malware
 xbox.com - kbox.com - Typo
-xbox.com - kxbox.com - Typo Phishing
+xbox.com - kxbox.com - Typo 
 xbox.com - lbox.com - Typo
-xbox.com - lxbox.com - Typo Phishing
+xbox.com - lxbox.com - Typo 
 xbox.com - mbox.com - Typo
 xbox.com - mxbox.com -  Typo
-xbox.com - nbox.com - Typo Phishing
+xbox.com - nbox.com - Typo 
 xbox.com - nxbox.com - Typo
 xbox.com - obox.com - Typo
 xbox.com - oxbox.com - Typo
@@ -4414,8 +4414,8 @@ xbox.com - x0ox.com - Typo
 xbox.com - x1box.com - Typo
 xbox.com - x2box.com - Unknown
 xbox.com - x2ox.com - Typo
-xbox.com - x3ox.com - Typo Phishing
-xbox.com - x8box.com - Typo Phishing
+xbox.com - x3ox.com - Typo 
+xbox.com - x8box.com - Typo 
 xbox.com - x8ox.com - Malware
 xbox.com - xabox.com - Malware
 xbox.com - xaox.com - Typo
@@ -4428,13 +4428,13 @@ xbox.com - xbbox.com - Unknown
 xbox.com - xbcx.com - Typo
 xbox.com - xbdx.com - Unknown
 xbox.com - xbex.com - Typo
-xbox.com - xbfox.com - Typo Phishing
+xbox.com - xbfox.com - Typo 
 xbox.com - xbfx.com - Typo
 xbox.com - xbgx.com - Typo
 xbox.com - xbhx.com - Malware
 xbox.com - xbiox.com - Unknown
 xbox.com - xbix.com - Typo
-xbox.com - xbjx.com - Typo Phishing
+xbox.com - xbjx.com - Typo 
 xbox.com - xbkx.com - Typo
 xbox.com - xblox.com -  Redirect
 xbox.com - xblx.com -  Typo
@@ -4456,7 +4456,7 @@ xbox.com - xboe.com - Typo
 xbox.com - xbof.com - Typo
 xbox.com - xbog.com - Typo
 xbox.com - xboh.com - Typo
-xbox.com - xboi.com - Typo Phishing
+xbox.com - xboi.com - Typo 
 xbox.com - xboix.com - Unknown
 xbox.com - xbok.com - Typo
 xbox.com - xbokx.com - Typo
@@ -4464,7 +4464,7 @@ xbox.com - xbol.com - Typo
 xbox.com - xbom.com - Typo
 xbox.com - xbon.com - Typo
 xbox.com - xbonx.com - Typo
-xbox.com - xboo.com - Typo Phishing
+xbox.com - xboo.com - Typo 
 xbox.com - xboox.com - Typo
 xbox.com - xbop.com - Typo
 xbox.com - xbopx.com -  Typo
@@ -4480,8 +4480,8 @@ xbox.com - xboux.com -  Redirect
 xbox.com - xbov.com - Typo
 xbox.com - xbow.com - Unknown
 xbox.com - xbox1.com -  Redirect
-xbox.com - xbox2.com - Typo Phishing
-xbox.com - xbox3.com - Typo Phishing
+xbox.com - xbox2.com - Typo 
+xbox.com - xbox3.com - Typo 
 xbox.com - xbox4.com -  Typo
 xbox.com - xbox5.com - Unknown
 xbox.com - xbox7.com - Unknown
@@ -4490,10 +4490,10 @@ xbox.com - xboxb.com -  Typo
 xbox.com - xboxc.com - Unknown
 xbox.com - xboxd.com - Unknown
 xbox.com - xboxe.com -  Redirect
-xbox.com - xboxg.com - Typo Phishing
+xbox.com - xboxg.com - Typo 
 xbox.com - xboxl.com -  Redirect
 xbox.com - xboxo.com - Typo
-xbox.com - xboxr.com - Typo Phishing
+xbox.com - xboxr.com - Typo 
 xbox.com - xboxs.com -  Redirect
 xbox.com - xboxu.com - Typo
 xbox.com - xboxv.com - Typo
@@ -4526,11 +4526,11 @@ xbox.com - xgbox.com - Malware
 xbox.com - xgox.com - Typo
 xbox.com - xhox.com - Typo
 xbox.com - xibox.com - Typo
-xbox.com - xiox.com - Typo Phishing
+xbox.com - xiox.com - Typo 
 xbox.com - xjbox.com - Malware
 xbox.com - xjox.com - Typo
 xbox.com - xkbox.com - Typo
-xbox.com - xkox.com - Typo Phishing
+xbox.com - xkox.com - Typo 
 xbox.com - xlox.com - Typo
 xbox.com - xmbox.com - Malware
 xbox.com - xmox.com - Typo
@@ -4544,7 +4544,7 @@ xbox.com - xrbox.com - Typo
 xbox.com - xrox.com - Typo
 xbox.com - xsbox.com - Typo
 xbox.com - xsox.com -  Typo
-xbox.com - xtbox.com - Typo Phishing
+xbox.com - xtbox.com - Typo 
 xbox.com - xtox.com - Typo
 xbox.com - xubox.com - Typo
 xbox.com - xuox.com - Unknown
@@ -4634,7 +4634,7 @@ mozilla.org - mzilla.org - Typo
 mozilla.org - mzoilla.org - Typo
 mozilla.org - nmozilla.org - Unknown
 mozilla.org - nozilla.org - Unknown
-mozilla.org - omzilla.org - Typo Phishing
+mozilla.org - omzilla.org - Typo 
 mozilla.org - ozilla.org - Typo
 mozilla.org - rozilla.org - Unknown
 mozilla.org - sozilla.org - Unknown
@@ -4648,11 +4648,11 @@ travelweekly.com - rtravelweekly.com - Unknown
 travelweekly.com - travel.weekly.com - Typo
 travelweekly.com - travelw.eekly.com - Typo
 travelweekly.com - travelwe.ekly.com - Typo
-travelweekly.com - travelwee.kly.com - Typo Phishing
+travelweekly.com - travelwee.kly.com - Typo 
 travelweekly.com - travelweekli.com - Typo
 history.com - 3history.com - Typo
 history.com - 4history.com - Typo
-history.com - 7history.com - Typo Phishing
+history.com - 7history.com - Typo 
 history.com - ahistory.com - Typo
 history.com - bhistory.com - Typo
 history.com - chistory.com - Typo
@@ -4664,7 +4664,7 @@ history.com - h2istory.com - Typo
 history.com - h2story.com - Typo
 history.com - hastory.com - Typo
 history.com - hbstory.com - Typo
-history.com - hcstory.com - Typo Phishing
+history.com - hcstory.com - Typo 
 history.com - hdstory.com - Typo
 history.com - heistory.com - Typo
 history.com - hestory.com - Typo
@@ -4703,7 +4703,7 @@ history.com - hisstory.com - Typo
 history.com - hist.ory.com - Typo
 history.com - histaory.com - Typo
 history.com - histary.com - Typo
-history.com - histery.com - Typo Phishing
+history.com - histery.com - Typo 
 history.com - histiry.com -  Typo
 history.com - histlry.com - Typo
 history.com - histocry.com - Typo
@@ -4752,13 +4752,13 @@ history.com - historye.com - Typo
 history.com - historyi.com - Typo
 history.com - historyj.com - Unknown
 history.com - historyl.com - Malware
-history.com - historym.com - Typo Phishing
+history.com - historym.com - Typo 
 history.com - historyn.com - Typo
 history.com - historyo.com - Typo
 history.com - historyp.com - Typo
 history.com - historys.com - Typo
 history.com - historyt.com - Typo
-history.com - historyu.com - Typo Phishing
+history.com - historyu.com - Typo 
 history.com - historyv.com - Malware
 history.com - historyx.com - Typo
 history.com - historyy.com - Typo
@@ -4808,9 +4808,9 @@ history.com - hustory.com - Typo
 history.com - hwistory.com - Typo
 history.com - hwstory.com - Typo
 history.com - hxstory.com - Typo
-history.com - hystory.com - Typo Phishing
+history.com - hystory.com - Typo 
 history.com - hzstory.com - Unknown
-history.com - ihstory.com - Typo Phishing
+history.com - ihstory.com - Typo 
 history.com - khistory.com - Typo
 history.com - lhistory.com - Typo
 history.com - mhistory.com - Typo
@@ -4824,7 +4824,7 @@ history.com - tistory.com - Typo
 history.com - uhistory.com -  Typo
 history.com - vhistory.com - Typo
 history.com - whistory.com - Typo
-history.com - xhistory.com - Typo Phishing
+history.com - xhistory.com - Typo 
 history.com - yhistory.com - Typo
 amazon.es - aamazon.es -  Redirect
 amazon.es - aamzon.es -  Redirect
@@ -4860,7 +4860,7 @@ amazon.es - amaz0n.es -  Redirect
 amazon.es - amaz9n.es -  Redirect
 amazon.es - amazan.es -  Redirect
 amazon.es - amazaon.es -  Redirect
-amazon.es - amazen.es - Typo Phishing
+amazon.es - amazen.es - Typo 
 amazon.es - amazgn.es - Typo
 amazon.es - amazin.es -  Redirect
 amazon.es - amazion.es -  Redirect
@@ -4877,7 +4877,7 @@ amazon.es - amazoj.es -  Redirect
 amazon.es - amazojn.es - Typo
 amazon.es - amazok.es - Unknown
 amazon.es - amazom.es -  Redirect
-amazon.es - �mazon.es - Typo Phishing
+amazon.es - �mazon.es - Typo 
 amazon.es - amazona.es - Typo
 amazon.es - amazone.es - Typo
 amazon.es - amazoni.es - Typo
@@ -4992,7 +4992,7 @@ dzen.ru - dfzen.ru -  Typo
 dzen.ru - dgen.ru - Typo
 dzen.ru - dhen.ru - Typo
 dzen.ru - dien.ru - Typo
-dzen.ru - dizen.ru - Typo Phishing
+dzen.ru - dizen.ru - Typo 
 dzen.ru - djen.ru - Unknown
 dzen.ru - dken.ru - Typo
 dzen.ru - dlen.ru - Typo
@@ -5009,7 +5009,7 @@ dzen.ru - dwen.ru - Typo
 dzen.ru - dxen.ru -  Typo
 dzen.ru - dxzen.ru -  Typo
 dzen.ru - dyen.ru - Typo
-dzen.ru - dz.en.ru - Typo Phishing
+dzen.ru - dz.en.ru - Typo 
 dzen.ru - dz3en.ru - Typo
 dzen.ru - dz4en.ru - Typo
 dzen.ru - dz4n.ru -  Typo
@@ -5021,7 +5021,7 @@ dzen.ru - dzdn.ru -  Typo
 dzen.ru - dze.ru - Typo
 dzen.ru - dze3n.ru - Typo
 dzen.ru - dze4n.ru - Typo
-dzen.ru - dzeb.ru - Typo Phishing
+dzen.ru - dzeb.ru - Typo 
 dzen.ru - dzebn.ru -  Typo
 dzen.ru - dzed.ru -  Typo
 dzen.ru - dzedn.ru -  Typo
@@ -5079,7 +5079,7 @@ dzen.ru - dzesn.ru -  Typo
 dzen.ru - dzet.ru - Typo
 dzen.ru - dzev.ru - Typo
 dzen.ru - dzewn.ru -  Typo
-dzen.ru - dzex.ru - Typo Phishing
+dzen.ru - dzex.ru - Typo 
 dzen.ru - dzezn.ru - Typo
 dzen.ru - dzfen.ru - Typo
 dzen.ru - dzfn.ru - Unknown
@@ -5106,7 +5106,7 @@ dzen.ru - dzzen.ru - Typo
 dzen.ru - edzen.ru -  Typo
 dzen.ru - ezen.ru - Typo
 dzen.ru - fdzen.ru -  Typo
-dzen.ru - fzen.ru - Typo Phishing
+dzen.ru - fzen.ru - Typo 
 dzen.ru - gdzen.ru - Typo
 dzen.ru - gzen.ru - Typo
 dzen.ru - hdzen.ru - Typo
@@ -5152,7 +5152,7 @@ johnlewis.com - johblewis.com -  Typo
 johnlewis.com - johhlewis.com - Typo
 johnlewis.com - johhnlewis.com - Typo
 johnlewis.com - johlewis.com - Typo
-johnlewis.com - johmlewis.com - Typo Phishing
+johnlewis.com - johmlewis.com - Typo 
 johnlewis.com - johnalewis.com - Typo
 johnlewis.com - johnclewis.com - Unknown
 johnlewis.com - johndewis.com - Typo
@@ -5194,7 +5194,7 @@ johnlewis.com - johnwlewis.com - Typo
 johnlewis.com - joinlewis.com - Typo
 johnlewis.com - jojnlewis.com - Typo
 johnlewis.com - jonhlewis.com - Typo
-johnlewis.com - jonhnlewis.com - Typo Phishing
+johnlewis.com - jonhnlewis.com - Typo 
 johnlewis.com - jonlewis.com - Typo
 johnlewis.com - lohnlewis.com - Typo
 johnlewis.com - ohnlewis.com - Typo
@@ -5403,11 +5403,11 @@ klook.com - 1look.com - Typo
 klook.com - 2look.com - Typo
 klook.com - 3look.com - Typo
 klook.com - 4look.com - Typo
-klook.com - 5look.com - Typo Phishing
+klook.com - 5look.com - Typo 
 klook.com - 6look.com - Typo
 klook.com - 7look.com - Typo
-klook.com - 8look.com - Typo Phishing
-klook.com - 9look.com - Typo Phishing
+klook.com - 8look.com - Typo 
+klook.com - 9look.com - Typo 
 klook.com - aklook.com - Typo
 klook.com - alook.com - Typo
 klook.com - blook.com - Typo
@@ -5423,7 +5423,7 @@ klook.com - jklook.com -  Redirect
 klook.com - jlook.com - Typo
 klook.com - kalook.com - Typo
 klook.com - kblook.com - Typo
-klook.com - kbook.com - Typo Phishing
+klook.com - kbook.com - Typo 
 klook.com - kclook.com - Typo
 klook.com - kcook.com -  Typo
 klook.com - kdlook.com - Malware
@@ -5432,7 +5432,7 @@ klook.com - keook.com - Unknown
 klook.com - kfook.com - Typo
 klook.com - khook.com - Typo
 klook.com - kilook.com - Typo
-klook.com - kiook.com - Typo Phishing
+klook.com - kiook.com - Typo 
 klook.com - kjook.com - Unknown
 klook.com - kklook.com - Typo
 klook.com - kkook.com - Typo
@@ -5497,7 +5497,7 @@ klook.com - kloot.com - Typo
 klook.com - kloou.com - Typo
 klook.com - kloov.com - Typo
 klook.com - kloox.com - Typo
-klook.com - klooy.com - Typo Phishing
+klook.com - klooy.com - Typo 
 klook.com - klooz.com - Typo
 klook.com - klopk.com -  Redirect
 klook.com - klork.com - Typo
@@ -5512,7 +5512,7 @@ klook.com - klpook.com -  Redirect
 klook.com - klwok.com - Malware
 klook.com - kmlook.com - Unknown
 klook.com - kmook.com - Typo
-klook.com - kook.com - Typo Phishing
+klook.com - kook.com - Typo 
 klook.com - koook.com - Unknown
 klook.com - kplook.com - Typo
 klook.com - kpook.com -  Redirect
@@ -5520,8 +5520,8 @@ klook.com - krook.com - Unknown
 klook.com - ktook.com - Unknown
 klook.com - kvook.com - Malware
 klook.com - kwook.com - Typo
-klook.com - kxlook.com - Typo Phishing
-klook.com - kylook.com - Typo Phishing
+klook.com - kxlook.com - Typo 
+klook.com - kylook.com - Typo 
 klook.com - kyook.com - Typo
 klook.com - kzlook.com - Unknown
 klook.com - kzook.com - Typo
@@ -5556,7 +5556,7 @@ playstation.com - 4playstation.com -  Typo
 playstation.com - 5playstation.com -  Typo
 playstation.com - aplaystation.com - Typo
 playstation.com - blaystation.com - Unknown
-playstation.com - claystation.com - Typo Phishing
+playstation.com - claystation.com - Typo 
 playstation.com - cplaystation.com - Typo
 playstation.com - elaystation.com - Unknown
 playstation.com - eplaystation.com - Typo
@@ -5574,7 +5574,7 @@ playstation.com - oplaystation.com -  Typo
 playstation.com - p1aystation.com -  Redirect
 playstation.com - palaystation.com - Typo
 playstation.com - palystation.com - Typo
-playstation.com - paystation.com - Typo Phishing
+playstation.com - paystation.com - Typo 
 playstation.com - pelaystation.com - Unknown
 playstation.com - piaystation.com - Typo
 playstation.com - pkaystation.com - Typo
@@ -5680,7 +5680,7 @@ playstation.com - playstation6.com - Typo
 playstation.com - playstation8.com - Typo
 playstation.com - playstation9.com - Typo
 playstation.com - playstationb.com -  Typo
-playstation.com - playstationc.com - Typo Phishing
+playstation.com - playstationc.com - Typo 
 playstation.com - playstationd.com - Typo
 playstation.com - playstatione.com - Typo
 playstation.com - playstationg.com -  Typo
@@ -5826,7 +5826,7 @@ caranddriver.com - caraanddriver.com - Typo
 caranddriver.com - carabddriver.com - Typo
 caranddriver.com - caraddriver.com - Typo
 caranddriver.com - caramddriver.com - Typo
-caranddriver.com - caran.ddriver.com - Typo Phishing
+caranddriver.com - caran.ddriver.com - Typo 
 caranddriver.com - carandcriver.com - Typo
 caranddriver.com - carandddriver.com - Typo
 caranddriver.com - caranddiver.com - Typo
@@ -5930,7 +5930,7 @@ superuser.com - spueruser.com - Unknown
 superuser.com - stuperuser.com - Typo
 superuser.com - su.peruser.com - Typo
 superuser.com - supe.ruser.com - Typo
-superuser.com - super.user.com - Typo Phishing
+superuser.com - super.user.com - Typo 
 superuser.com - superauser.com - Typo
 superuser.com - superbuser.com - Unknown
 superuser.com - superfuser.com - Typo
@@ -5940,10 +5940,10 @@ superuser.com - superser.com - Typo
 superuser.com - supersuer.com - Typo
 superuser.com - superu.ser.com - Typo
 superuser.com - superuber.com - Typo
-superuser.com - superus8r.com - Typo Phishing
+superuser.com - superus8r.com - Typo 
 superuser.com - superuse.com - Typo
 superuser.com - superused.com - Typo
-superuser.com - superuser1.com - Typo Phishing
+superuser.com - superuser1.com - Typo 
 superuser.com - superusers.com - Typo
 superuser.com - superusey.com - Typo
 superuser.com - superusher.com - Typo
@@ -5970,10 +5970,10 @@ bol.com - b.ol.com - Unknown
 bol.com - b0l.com - Typo
 bol.com - b1l.com - Unknown
 bol.com - b1ol.com - Typo
-bol.com - b2l.com - Typo Phishing
+bol.com - b2l.com - Typo 
 bol.com - b2ol.com - Typo
 bol.com - b3l.com - Typo
-bol.com - b4ol.com - Typo Phishing
+bol.com - b4ol.com - Typo 
 bol.com - b5l.com - Typo
 bol.com - b6l.com - Typo
 bol.com - b7l.com - Typo
@@ -5982,15 +5982,15 @@ bol.com - b9l.com - Typo
 bol.com - b9ol.com - Malware
 bol.com - bal.com - Typo
 bol.com - baol.com - Typo
-bol.com - bbol.com - Typo Phishing
+bol.com - bbol.com - Typo 
 bol.com - bcl.com - Typo
 bol.com - bcol.com - Typo
 bol.com - bdl.com - Typo
 bol.com - bdol.com - Unknown
 bol.com - bel.com - Typo
-bol.com - beol.com - Typo Phishing
+bol.com - beol.com - Typo 
 bol.com - bfl.com - Typo
-bol.com - bfol.com - Typo Phishing
+bol.com - bfol.com - Typo 
 bol.com - bgol.com - Typo
 bol.com - bhl.com - Typo
 bol.com - bhol.com - Unknown
@@ -6000,7 +6000,7 @@ bol.com - bjl.com - Unknown
 bol.com - bkl.com - Typo
 bol.com - bkol.com - Typo
 bol.com - bl.com - Malware
-bol.com - blo.com - Typo Phishing
+bol.com - blo.com - Typo 
 bol.com - bml.com - Typo
 bol.com - bmol.com - Typo
 bol.com - bnl.com - Typo
@@ -6031,7 +6031,7 @@ bol.com - boj.com - Typo
 bol.com - bojl.com - Typo
 bol.com - bok.com - Typo
 bol.com - bokl.com - Typo
-bol.com - b�l.com - Typo Phishing
+bol.com - b�l.com - Typo 
 bol.com - bol1.com - Typo
 bol.com - bol2.com - Typo
 bol.com - bol3.com - Typo
@@ -6075,7 +6075,7 @@ bol.com - borl.com - Typo
 bol.com - bos.com - Typo
 bol.com - bosl.com - Typo
 bol.com - bot.com - Typo
-bol.com - botl.com - Typo Phishing
+bol.com - botl.com - Typo 
 bol.com - bou.com - Typo
 bol.com - boul.com -  Typo
 bol.com - bov.com - Typo
@@ -6393,7 +6393,7 @@ wise.com - cise.com - Typo
 wise.com - cwise.com - Typo
 wise.com - dise.com - Typo
 wise.com - dwise.com - Typo
-wise.com - eise.com - Typo Phishing
+wise.com - eise.com - Typo 
 wise.com - ewise.com - Typo
 wise.com - fise.com - Typo
 wise.com - fwise.com - Typo
@@ -6419,7 +6419,7 @@ wise.com - pwise.com - Unknown
 wise.com - qise.com - Malware
 wise.com - qwise.com - Typo
 wise.com - rise.com - Typo
-wise.com - rwise.com - Typo Phishing
+wise.com - rwise.com - Typo 
 wise.com - swise.com - Typo
 wise.com - twise.com - Typo
 wise.com - uise.com - Typo
@@ -6428,7 +6428,7 @@ wise.com - w.ise.com - Unknown
 wise.com - w1se.com - Typo
 wise.com - w2ise.com - Typo
 wise.com - w3ise.com - Typo
-wise.com - w3se.com - Typo Phishing
+wise.com - w3se.com - Typo 
 wise.com - w4se.com - Malware
 wise.com - w8ise.com - Typo
 wise.com - w9ise.com - Typo
@@ -6460,7 +6460,7 @@ wise.com - wiee.com - Typo
 wise.com - wies.com - Typo
 wise.com - wiese.com - Typo
 wise.com - wife.com - Typo
-wise.com - wifse.com - Typo Phishing
+wise.com - wifse.com - Typo 
 wise.com - wigse.com - Typo
 wise.com - wihe.com - Typo
 wise.com - wihse.com - Typo
@@ -6472,7 +6472,7 @@ wise.com - wilse.com - Typo
 wise.com - wimse.com - Typo
 wise.com - wine.com - Typo
 wise.com - winse.com - Typo
-wise.com - wioe.com - Typo Phishing
+wise.com - wioe.com - Typo 
 wise.com - wiose.com - Typo
 wise.com - wipe.com - Typo
 wise.com - wipse.com - Typo
@@ -6505,7 +6505,7 @@ wise.com - wise7.com - Typo
 wise.com - wise8.com - Typo
 wise.com - wise9.com - Typo
 wise.com - wisea.com - Typo
-wise.com - wisec.com - Typo Phishing
+wise.com - wisec.com - Typo 
 wise.com - wisee.com - Typo
 wise.com - wisef.com - Typo
 wise.com - wiseg.com - Typo
@@ -6517,33 +6517,33 @@ wise.com - wisem.com - Typo
 wise.com - wisen.com - Typo
 wise.com - wiseo.com - Typo
 wise.com - wisep.com - Typo
-wise.com - wiseq.com - Typo Phishing
+wise.com - wiseq.com - Typo 
 wise.com - wiser.com - Typo
 wise.com - wises.com - Typo
 wise.com - wiset.com - Typo
 wise.com - wiseu.com - Typo
 wise.com - wisev.com - Typo
 wise.com - wisew.com - Typo
-wise.com - wisex.com - Typo Phishing
+wise.com - wisex.com - Typo 
 wise.com - wisez.com - Unknown
-wise.com - wisf.com - Typo Phishing
+wise.com - wisf.com - Typo 
 wise.com - wisfe.com - Typo
 wise.com - wisg.com - Typo
 wise.com - wisge.com - Malware
 wise.com - wish.com - Typo
 wise.com - wishe.com - Typo
 wise.com - wisi.com - Typo
-wise.com - wisie.com - Typo Phishing
+wise.com - wisie.com - Typo 
 wise.com - wisk.com - Typo
 wise.com - wiske.com - Typo
-wise.com - wisl.com - Typo Phishing
+wise.com - wisl.com - Typo 
 wise.com - wisle.com - Typo
 wise.com - wism.com - Typo
 wise.com - wisme.com - Typo
 wise.com - wisn.com -  Typo
 wise.com - wisne.com - Typo
 wise.com - wiso.com -  Typo
-wise.com - wisoe.com - Typo Phishing
+wise.com - wisoe.com - Typo 
 wise.com - wisp.com - Typo
 wise.com - wispe.com - Typo
 wise.com - wisq.com - Typo
@@ -6555,7 +6555,7 @@ wise.com - wisse.com - Typo
 wise.com - wist.com - Typo
 wise.com - wiste.com - Typo
 wise.com - wisu.com - Malware
-wise.com - wisue.com - Typo Phishing
+wise.com - wisue.com - Typo 
 wise.com - wisv.com - Typo
 wise.com - wiswe.com - Typo
 wise.com - wisx.com - Typo
@@ -6563,14 +6563,14 @@ wise.com - wisxe.com - Typo
 wise.com - wisy.com - Typo
 wise.com - wisye.com - Typo
 wise.com - wisz.com - Typo
-wise.com - wite.com - Typo Phishing
+wise.com - wite.com - Typo 
 wise.com - witse.com - Malware
 wise.com - wiue.com - Typo
 wise.com - wiuse.com - Typo
 wise.com - wive.com - Typo
 wise.com - wiwe.com -  Typo
 wise.com - wiwse.com - Typo
-wise.com - wixe.com - Typo Phishing
+wise.com - wixe.com - Typo 
 wise.com - wixse.com - Typo
 wise.com - wiye.com -  Typo
 wise.com - wiyse.com - Typo
@@ -6582,7 +6582,7 @@ wise.com - wkse.com - Typo
 wise.com - wlise.com - Malware
 wise.com - wlse.com - Typo
 wise.com - wmse.com - Malware
-wise.com - wnise.com - Typo Phishing
+wise.com - wnise.com - Typo 
 wise.com - wnse.com - Typo
 wise.com - woise.com - Typo
 wise.com - wose.com - Malware
@@ -6596,7 +6596,7 @@ wise.com - wsise.com - Unknown
 wise.com - wtise.com - Malware
 wise.com - wtse.com - Typo
 wise.com - wuse.com - Unknown
-wise.com - wvse.com - Typo Phishing
+wise.com - wvse.com - Typo 
 wise.com - wwise.com - Typo
 wise.com - wwse.com - Unknown
 wise.com - wyise.com - Typo
@@ -6634,7 +6634,7 @@ usmagazine.com - smagazine.com - Typo
 usmagazine.com - ssmagazine.com - Typo
 usmagazine.com - sumagazine.com - Typo
 usmagazine.com - tsmagazine.com - Typo
-usmagazine.com - u.smagazine.com - Typo Phishing
+usmagazine.com - u.smagazine.com - Typo 
 usmagazine.com - u2magazine.com - Typo
 usmagazine.com - uamagazine.com - Typo
 usmagazine.com - uasmagazine.com - Typo
@@ -6642,7 +6642,7 @@ usmagazine.com - ubmagazine.com - Unknown
 usmagazine.com - ucmagazine.com - Typo
 usmagazine.com - udmagazine.com - Typo
 usmagazine.com - uemagazine.com - Typo
-usmagazine.com - ufmagazine.com - Typo Phishing
+usmagazine.com - ufmagazine.com - Typo 
 usmagazine.com - ufsmagazine.com - Unknown
 usmagazine.com - uimagazine.com - Typo
 usmagazine.com - ukmagazine.com - Typo
@@ -6652,16 +6652,16 @@ usmagazine.com - umsagazine.com -  Typo
 usmagazine.com - unmagazine.com - Typo
 usmagazine.com - uomagazine.com - Typo
 usmagazine.com - upmagazine.com - Unknown
-usmagazine.com - upsmagazine.com - Typo Phishing
+usmagazine.com - upsmagazine.com - Typo 
 usmagazine.com - urmagazine.com - Typo
 usmagazine.com - us1magazine.com -  Typo
 usmagazine.com - us2magazine.com - Typo
 usmagazine.com - usagazine.com - Typo
 usmagazine.com - usamagazine.com - Typo
-usmagazine.com - usamgazine.com - Typo Phishing
+usmagazine.com - usamgazine.com - Typo 
 usmagazine.com - uscmagazine.com - Typo
 usmagazine.com - usdmagazine.com - Typo
-usmagazine.com - usemagazine.com - Typo Phishing
+usmagazine.com - usemagazine.com - Typo 
 usmagazine.com - usfmagazine.com - Typo
 usmagazine.com - ushmagazine.com - Typo
 usmagazine.com - uskagazine.com -  Typo
@@ -6735,14 +6735,14 @@ usmagazine.com - ustmagazine.com - Typo
 usmagazine.com - utmagazine.com - Typo
 usmagazine.com - utsmagazine.com - Typo
 usmagazine.com - uvmagazine.com - Typo
-usmagazine.com - uwmagazine.com - Typo Phishing
+usmagazine.com - uwmagazine.com - Typo 
 usmagazine.com - uxmagazine.com - Unknown
 usmagazine.com - vsmagazine.com - Typo
 usmagazine.com - wsmagazine.com - Typo
 usmagazine.com - xsmagazine.com - Typo
 usmagazine.com - ysmagazine.com - Typo
 usmagazine.com - yusmagazine.com -  Typo
-usmagazine.com - zsmagazine.com - Typo Phishing
+usmagazine.com - zsmagazine.com - Typo 
 bfmtv.com - afmtv.com - Typo
 bfmtv.com - b.fmtv.com - Typo
 bfmtv.com - bamtv.com - Typo
@@ -6767,8 +6767,8 @@ bfmtv.com - bfktv.com - Unknown
 bfmtv.com - bfmiv.com - Unknown
 bfmtv.com - bfmmtv.com - Typo
 bfmtv.com - bfmt.com - Typo
-bfmtv.com - bfmt4.com - Typo Phishing
-bfmtv.com - bfmt5.com - Typo Phishing
+bfmtv.com - bfmt4.com - Typo 
+bfmtv.com - bfmt5.com - Typo 
 bfmtv.com - bfmtb.com - Typo
 bfmtv.com - bfmtc.com - Typo
 bfmtv.com - bfmtf.com - Typo
@@ -6805,9 +6805,9 @@ bfmtv.com - bvmtv.com - Typo
 bfmtv.com - bwmtv.com - Typo
 bfmtv.com - bymtv.com - Typo
 bfmtv.com - bzmtv.com - Malware
-bfmtv.com - cfmtv.com - Typo Phishing
+bfmtv.com - cfmtv.com - Typo 
 bfmtv.com - efmtv.com - Typo
-bfmtv.com - fbmtv.com - Typo Phishing
+bfmtv.com - fbmtv.com - Typo 
 bfmtv.com - ffmtv.com - Malware
 bfmtv.com - fmtv.com - Typo
 bfmtv.com - gfmtv.com - Typo
@@ -6850,15 +6850,15 @@ decider.com - decidel.com - Unknown
 decider.com - deciden.com - Typo
 decider.com - decideo.com - Typo
 decider.com - d�cider.com - Unknown
-decider.com - decidera.com - Typo Phishing
+decider.com - decidera.com - Typo 
 decider.com - deciderb.com - Typo
 decider.com - decidere.com - Typo
 decider.com - deciderr.com - Typo
 decider.com - deciders.com - Typo
 decider.com - deciderx.com - Typo
-decider.com - decidery.com - Typo Phishing
+decider.com - decidery.com - Typo 
 decider.com - decides.com - Typo
-decider.com - decidet.com - Typo Phishing
+decider.com - decidet.com - Typo 
 decider.com - decidev.com - Typo
 decider.com - decidex.com - Typo
 decider.com - decidey.com - Typo
@@ -6869,7 +6869,7 @@ decider.com - decidor.com - Typo
 decider.com - decidrr.com - Typo
 decider.com - decier.com - Unknown
 decider.com - decifer.com - Typo
-decider.com - deciider.com - Typo Phishing
+decider.com - deciider.com - Typo 
 decider.com - decimer.com - Typo
 decider.com - deciner.com - Unknown
 decider.com - deciper.com - Typo
@@ -7013,7 +7013,7 @@ squarespace.com - squarespacce.com - Typo
 squarespace.com - squarespacd.com - Typo
 squarespace.com - squarespacde.com - Typo
 squarespace.com - squarespace2.com - Typo
-squarespace.com - squarespace5.com - Typo Phishing
+squarespace.com - squarespace5.com - Typo 
 squarespace.com - squarespace6.com -  Redirect
 squarespace.com - squarespace7.com -  Redirect
 squarespace.com - squarespace8.com -  Redirect
@@ -7153,7 +7153,7 @@ clarin.com - clabin.com - Malware
 clarin.com - cladin.com - Typo
 clarin.com - cladrin.com - Typo
 clarin.com - claein.com - Typo
-clarin.com - clafin.com - Typo Phishing
+clarin.com - clafin.com - Typo 
 clarin.com - clafrin.com - Typo
 clarin.com - clagin.com - Typo
 clarin.com - clain.com - Typo
@@ -7166,14 +7166,14 @@ clarin.com - claqrin.com - Typo
 clarin.com - clar8n.com - Typo
 clarin.com - clar9n.com - Typo
 clarin.com - clarain.com - Typo
-clarin.com - claran.com - Typo Phishing
+clarin.com - claran.com - Typo 
 clarin.com - clardin.com - Typo
 clarin.com - clarein.com - Typo
 clarin.com - claren.com - Typo
 clarin.com - clarfin.com - Typo
 clarin.com - clari.com - Typo
 clarin.com - clari0n.com - Typo 
-clarin.com - clari5.com - Typo Phishing
+clarin.com - clari5.com - Typo 
 clarin.com - clari9n.com - Typo
 clarin.com - claria.com - Unknown
 clarin.com - clarib.com - Typo
@@ -7193,14 +7193,14 @@ clarin.com - claril.com - Typo
 clarin.com - clariln.com - Typo
 clarin.com - clarim.com - Unknown
 clarin.com - clarimn.com - Typo
-clarin.com - clar�n.com - Typo Phishing
-clarin.com - clarina.com - Typo Phishing
+clarin.com - clar�n.com - Typo 
+clarin.com - clarina.com - Typo 
 clarin.com - clarinb.com - Typo
-clarin.com - clarinc.com - Typo Phishing
+clarin.com - clarinc.com - Typo 
 clarin.com - clarine.com - Typo
 clarin.com - claring.com - Typo
 clarin.com - clarinh.com - Typo
-clarin.com - clarini.com - Typo Phishing
+clarin.com - clarini.com - Typo 
 clarin.com - clarinj.com - Typo
 clarin.com - clarinl.com - Typo
 clarin.com - clarinm.com - Typo
@@ -7225,7 +7225,7 @@ clarin.com - clarjn.com - Typo
 clarin.com - clarkin.com - Typo
 clarin.com - clarlin.com - Typo
 clarin.com - clarln.com - Typo
-clarin.com - clarmin.com - Typo Phishing
+clarin.com - clarmin.com - Typo 
 clarin.com - clarn.com - Typo
 clarin.com - clarni.com - Typo
 clarin.com - claron.com - Typo
@@ -7250,7 +7250,7 @@ clarin.com - clerin.com - Typo
 clarin.com - clirin.com - Malware
 clarin.com - clkarin.com - Typo
 clarin.com - cllarin.com - Typo
-clarin.com - clorin.com - Typo Phishing
+clarin.com - clorin.com - Typo 
 clarin.com - clqrin.com - Typo
 clarin.com - clrain.com - Typo
 clarin.com - clrin.com - Typo
@@ -7323,8 +7323,8 @@ etonline.com - etconline.com - Typo
 etonline.com - etdonline.com - Typo
 etonline.com - etenline.com - Typo
 etonline.com - eteonline.com - Typo
-etonline.com - etfonline.com - Typo Phishing
-etonline.com - etgonline.com - Typo Phishing
+etonline.com - etfonline.com - Typo 
+etonline.com - etgonline.com - Typo 
 etonline.com - ethonline.com - Typo
 etonline.com - etinline.com - Unknown
 etonline.com - etionline.com - Typo
@@ -7377,7 +7377,7 @@ etonline.com - getonline.com - Typo
 etonline.com - gtonline.com - Typo
 etonline.com - hetonline.com - Typo
 etonline.com - htonline.com - Typo
-etonline.com - ietonline.com - Typo Phishing
+etonline.com - ietonline.com - Typo 
 etonline.com - itonline.com - Typo
 etonline.com - jetonline.com - Typo
 etonline.com - jtonline.com - Typo
@@ -7388,7 +7388,7 @@ etonline.com - ltonline.com - Typo
 etonline.com - metonline.com - Typo
 etonline.com - mtonline.com - Typo
 etonline.com - netonline.com - Typo
-etonline.com - ntonline.com - Typo Phishing
+etonline.com - ntonline.com - Typo 
 etonline.com - oetonline.com - Typo
 etonline.com - otonline.com - Unknown
 etonline.com - petonline.com - Typo
@@ -7411,7 +7411,7 @@ etonline.com - ytonline.com - Typo
 etonline.com - zetonline.com - Typo
 etonline.com - ztonline.com - Typo
 olympics.com - 0lympics.com - Typo
-olympics.com - 1olympics.com - Typo Phishing
+olympics.com - 1olympics.com - Typo 
 olympics.com - 3lympics.com - Typo
 olympics.com - 3olympics.com - Typo
 olympics.com - 7olympics.com - Unknown
@@ -7439,7 +7439,7 @@ olympics.com - olimpics.com -  Typo
 olympics.com - ollympics.com -  Typo
 olympics.com - olmpics.com - Typo
 olympics.com - olmypics.com - Typo
-olympics.com - olsympics.com - Typo Phishing
+olympics.com - olsympics.com - Typo 
 olympics.com - olumpics.com - Unknown
 olympics.com - oly.mpics.com - Typo
 olympics.com - olyimpics.com - Typo
@@ -7447,7 +7447,7 @@ olympics.com - olymics.com - Typo
 olympics.com - olymipcs.com - Unknown
 olympics.com - olymipics.com - Typo
 olympics.com - olympcs.com - Unknown
-olympics.com - olympdics.com - Typo Phishing
+olympics.com - olympdics.com - Typo 
 olympics.com - olympias.com - Typo
 olympics.com - olympic.com - Typo
 olympics.com - olympic1.com - Typo
@@ -7467,7 +7467,7 @@ olympics.com - olympicks.com - Typo
 olympics.com - olympicl.com - Unknown
 olympics.com - olympicls.com - Typo
 olympics.com - olympicn.com -  Typo
-olympics.com - olympico.com - Typo Phishing
+olympics.com - olympico.com - Typo 
 olympics.com - olympicos.com - Malware
 olympics.com - olympicps.com - Typo
 olympics.com - olympicq.com - Malware
@@ -7478,7 +7478,7 @@ olympics.com - olympics3.com - Typo
 olympics.com - olympicsa.com - Unknown
 olympics.com - olympicsc.com - Typo
 olympics.com - olympicse.com - Typo
-olympics.com - olympicsg.com - Typo Phishing
+olympics.com - olympicsg.com - Typo 
 olympics.com - olympicsi.com - Typo
 olympics.com - olympicsp.com - Typo
 olympics.com - olympicss.com - Typo
@@ -7492,7 +7492,7 @@ olympics.com - olympicw.com - Unknown
 olympics.com - olympicx.com - Typo
 olympics.com - olympicy.com - Typo
 olympics.com - olympicz.com - Typo
-olympics.com - olympigs.com - Typo Phishing
+olympics.com - olympigs.com - Typo 
 olympics.com - olympiics.com - Unknown
 olympics.com - olympiqs.com - Typo
 olympics.com - olympis.com - Typo
@@ -7505,9 +7505,9 @@ olympics.com - olympocs.com - Typo
 olympics.com - olymptics.com - Typo
 olympics.com - olynpics.com - Typo
 olympics.com - olypics.com - Typo
-olympics.com - onlympics.com - Typo Phishing
+olympics.com - onlympics.com - Typo 
 olympics.com - oolympics.com -  Typo
-olympics.com - otympics.com - Typo Phishing
+olympics.com - otympics.com - Typo 
 olympics.com - oylmpics.com - Typo
 olympics.com - ozlympics.com - Typo
 olympics.com - plympics.com - Typo
@@ -7517,7 +7517,7 @@ olympics.com - ulympics.com - Typo
 olympics.com - xlympics.com - Unknown
 olympics.com - xolympics.com - Unknown
 olympics.com - zlympics.com - Typo
-olympics.com - zolympics.com - Typo Phishing
+olympics.com - zolympics.com - Typo 
 bozkurtcivardi.online - bozkurtciva.rdi.online - Typo
 thrillist.com - hrillist.com - Typo
 thrillist.com - t.hrillist.com - Typo
@@ -7525,18 +7525,18 @@ thrillist.com - theillist.com - Typo
 thrillist.com - thr.illist.com - Typo
 thrillist.com - thri.llist.com - Typo
 thrillist.com - thril.list.com - Typo
-thrillist.com - thrill.ist.com - Typo Phishing
+thrillist.com - thrill.ist.com - Typo 
 thrillist.com - thrilliest.com - Typo
 thrillist.com - thrillis.com - Typo
-thrillist.com - thrillis1.com - Typo Phishing
-thrillist.com - thrillis2.com - Typo Phishing
-thrillist.com - thrillis3.com - Typo Phishing
-thrillist.com - thrillis4.com - Typo Phishing
-thrillist.com - thrillis5.com - Typo Phishing
-thrillist.com - thrillis6.com - Typo Phishing
+thrillist.com - thrillis1.com - Typo 
+thrillist.com - thrillis2.com - Typo 
+thrillist.com - thrillis3.com - Typo 
+thrillist.com - thrillis4.com - Typo 
+thrillist.com - thrillis5.com - Typo 
+thrillist.com - thrillis6.com - Typo 
 thrillist.com - thrillis7.com - Typo
 thrillist.com - thrillish.com - Typo
-thrillist.com - thrillism.com - Typo Phishing
+thrillist.com - thrillism.com - Typo 
 thrillist.com - thrillista.com - Typo
 thrillist.com - thrillists.com - Unknown
 thrillist.com - thrillit.com - Typo
@@ -7572,12 +7572,12 @@ zazzle.com - szazzle.com -  Redirect
 zazzle.com - tazzle.com - Unknown
 zazzle.com - tzazzle.com -  Redirect
 zazzle.com - uzazzle.com -  Redirect
-zazzle.com - vazzle.com - Typo Phishing
+zazzle.com - vazzle.com - Typo 
 zazzle.com - wzazzle.com -  Redirect
 zazzle.com - xazzle.com -  Redirect
 zazzle.com - xzazzle.com -  Redirect
 zazzle.com - yazzle.com - Typo
-zazzle.com - z.azzle.com - Typo Phishing
+zazzle.com - z.azzle.com - Typo 
 zazzle.com - z1zzle.com -  Redirect
 zazzle.com - zaazle.com - Typo
 zazzle.com - zaazzle.com - Typo
@@ -7669,7 +7669,7 @@ zazzle.com - zazzzle.com - Unknown
 zazzle.com - zczzle.com -  Redirect
 zazzle.com - zdazzle.com - Typo
 zazzle.com - zdzzle.com -  Redirect
-zazzle.com - zezzle.com - Typo Phishing
+zazzle.com - zezzle.com - Typo 
 zazzle.com - zhazzle.com - Typo
 zazzle.com - zizzle.com - Unknown
 zazzle.com - zozzle.com - Typo
@@ -7700,14 +7700,14 @@ peakpx.com - peakix.com - Typo
 peakpx.com - peaklx.com - Malware
 peakpx.com - peaknx.com - Typo
 peakpx.com - peakopx.com - Unknown
-peakpx.com - peakox.com - Typo Phishing
-peakpx.com - peakp.com - Typo Phishing
+peakpx.com - peakox.com - Typo 
+peakpx.com - peakp.com - Typo 
 peakpx.com - peakp.x.com - Unknown
 peakpx.com - peakp3.com - Typo
 peakpx.com - peakpa.com - Typo
 peakpx.com - peakpb.com - Typo
 peakpx.com - peakpbx.com - Unknown
-peakpx.com - peakpc.com - Typo Phishing
+peakpx.com - peakpc.com - Typo 
 peakpx.com - peakpd.com - Typo
 peakpx.com - peakpe.com - Typo
 peakpx.com - peakpf.com - Typo
@@ -7745,7 +7745,7 @@ spiegel.de - jspiegel.de - Typo
 spiegel.de - mspiegel.de - Typo
 spiegel.de - nspiegel.de - Typo
 spiegel.de - ospiegel.de - Typo
-spiegel.de - piegel.de - Typo Phishing
+spiegel.de - piegel.de - Typo 
 spiegel.de - psiegel.de -  Redirect
 spiegel.de - rspiegel.de - Unknown
 spiegel.de - s.piegel.de - Typo
@@ -7777,7 +7777,7 @@ spiegel.de - spi4egel.de - Typo
 spiegel.de - spi4gel.de - Typo
 spiegel.de - spi8egel.de - Typo
 spiegel.de - spi9egel.de - Typo
-spiegel.de - spiagel.de - Typo Phishing
+spiegel.de - spiagel.de - Typo 
 spiegel.de - spidegel.de - Typo
 spiegel.de - spidgel.de - Typo
 spiegel.de - spie.gel.de -  Typo
@@ -7810,13 +7810,13 @@ spiegel.de - spiegei.de - Typo
 spiegel.de - spiegek.de - Unknown
 spiegel.de - spiegekl.de - Typo
 spiegel.de - sp�egel.de - Typo
-spiegel.de - spiegel1.de - Typo Phishing
+spiegel.de - spiegel1.de - Typo 
 spiegel.de - spiegeld.de - Typo
 spiegel.de - spiegele.de - Unknown
 spiegel.de - spiegeli.de - Typo
 spiegel.de - spiegelk.de - Unknown
 spiegel.de - spiegell.de - Typo
-spiegel.de - spiegeln.de - Typo Phishing
+spiegel.de - spiegeln.de - Typo 
 spiegel.de - spiegelo.de - Typo
 spiegel.de - spiegelp.de - Typo
 spiegel.de - spiegels.de - Typo
@@ -7835,7 +7835,7 @@ spiegel.de - spiegfel.de - Typo
 spiegel.de - spiegfl.de - Typo
 spiegel.de - spieggel.de - Typo
 spiegel.de - spieghel.de - Unknown
-spiegel.de - spiegl.de - Typo Phishing
+spiegel.de - spiegl.de - Typo 
 spiegel.de - spiegle.de - Typo
 spiegel.de - spieglel.de - Typo
 spiegel.de - spiegrel.de - Typo
@@ -7867,7 +7867,7 @@ spiegel.de - spifegel.de - Typo
 spiegel.de - spifgel.de - Typo
 spiegel.de - spigeel.de - Typo
 spiegel.de - spigel.de -  Redirect
-spiegel.de - spiggel.de - Typo Phishing
+spiegel.de - spiggel.de - Typo 
 spiegel.de - spiiegel.de - Typo
 spiegel.de - spiigel.de - Typo
 spiegel.de - spijegel.de - Typo
@@ -7940,8 +7940,8 @@ welt.de - aelt.de -  Typo
 welt.de - awelt.de - Typo
 welt.de - belt.de - Typo
 welt.de - bwelt.de - Typo
-welt.de - celt.de - Typo Phishing
-welt.de - cwelt.de - Typo Phishing
+welt.de - celt.de - Typo 
+welt.de - cwelt.de - Typo 
 welt.de - delt.de -  Typo
 welt.de - dwelt.de - Typo
 welt.de - elt.de - Typo
@@ -7949,7 +7949,7 @@ welt.de - ewelt.de - Typo
 welt.de - ewlt.de - Typo
 welt.de - fwelt.de - Typo
 welt.de - gelt.de - Typo
-welt.de - gwelt.de - Typo Phishing
+welt.de - gwelt.de - Typo 
 welt.de - helt.de - Typo
 welt.de - hwelt.de - Typo
 welt.de - ielt.de -  Typo
@@ -7957,8 +7957,8 @@ welt.de - iwelt.de - Typo
 welt.de - jelt.de - Typo
 welt.de - kelt.de - Typo
 welt.de - kwelt.de - Typo
-welt.de - melt.de - Typo Phishing
-welt.de - mwelt.de - Typo Phishing
+welt.de - melt.de - Typo 
+welt.de - mwelt.de - Typo 
 welt.de - nelt.de -  Typo
 welt.de - nwelt.de - Typo
 welt.de - oelt.de - Typo
@@ -7969,13 +7969,13 @@ welt.de - qelt.de - Typo
 welt.de - relt.de - Typo
 welt.de - rwelt.de - Typo
 welt.de - selt.de - Typo
-welt.de - swelt.de - Typo Phishing
+welt.de - swelt.de - Typo 
 welt.de - telt.de - Typo
 welt.de - twelt.de - Typo
 welt.de - uwelt.de - Typo
-welt.de - velt.de - Typo Phishing
+welt.de - velt.de - Typo 
 welt.de - vwelt.de - Typo
-welt.de - w.elt.de - Typo Phishing
+welt.de - w.elt.de - Typo 
 welt.de - w3lt.de - Typo
 welt.de - walt.de -  Typo
 welt.de - wblt.de - Typo
@@ -7993,14 +7993,14 @@ welt.de - wehlt.de -  Typo
 welt.de - weht.de - Typo
 welt.de - weilt.de - Typo
 welt.de - wekt.de - Typo
-welt.de - wel.de - Typo Phishing
-welt.de - wela.de - Typo Phishing
+welt.de - wel.de - Typo 
+welt.de - wela.de - Typo 
 welt.de - welat.de - Typo
 welt.de - welb.de - Typo
 welt.de - welc.de - Unknown
 welt.de - weld.de - Typo
 welt.de - weldt.de - Typo
-welt.de - wele.de - Typo Phishing
+welt.de - wele.de - Typo 
 welt.de - welet.de - Typo
 welt.de - welf.de - Typo
 welt.de - welg.de - Typo
@@ -8020,7 +8020,7 @@ welt.de - welrt.de - Typo
 welt.de - wels.de - Typo
 welt.de - welst.de - Malware
 welt.de - welt2.de - Typo
-welt.de - welt3.de - Typo Phishing
+welt.de - welt3.de - Typo 
 welt.de - welt4.de - Redirect
 welt.de - welt6.de - Typo
 welt.de - welt7.de - Typo
@@ -8069,7 +8069,7 @@ welt.de - wlt.de - Typo
 welt.de - wolt.de - Typo
 welt.de - wqelt.de - Typo
 welt.de - wrelt.de - Typo
-welt.de - wrlt.de - Typo Phishing
+welt.de - wrlt.de - Typo 
 welt.de - wselt.de - Typo
 welt.de - wtlt.de - Typo
 welt.de - wult.de - Typo
@@ -8161,7 +8161,7 @@ techcrunch.com - techrcrunch.com - Unknown
 techcrunch.com - techrcunch.com - Redirect
 techcrunch.com - techrunch.com - Typo
 techcrunch.com - techscrunch.com - Typo
-techcrunch.com - techsrunch.com - Typo Phishing
+techcrunch.com - techsrunch.com - Typo 
 techcrunch.com - techvcrunch.com - Redirect
 techcrunch.com - techvrunch.com - Redirect
 techcrunch.com - techxcrunch.com - Redirect
@@ -8493,7 +8493,7 @@ complex.com - complexi.com - Typo
 complex.com - complexm.com - Typo
 complex.com - complexo.com - Typo
 complex.com - complexp.com - Typo
-complex.com - complexq.com - Typo Phishing
+complex.com - complexq.com - Typo
 complex.com - complexs.com - Typo
 complex.com - complext.com - Typo
 complex.com - complexu.com - Typo
@@ -9033,3 +9033,113 @@ my-best.com - ry-best.com - Typo
 my-best.com - xy-best.com - Typo
 my-best.com - y-best.com - Typo
 my-best.com - zy-best.com - Typo
+quora.com - 1uora.com - 
+quora.com - 2quora.com - 
+quora.com - 2uora.com - 
+quora.com - 4quora.com - 
+quora.com - aquora.com - 
+quora.com - auora.com - 
+quora.com - buora.com - 
+quora.com - cuora.com - 
+quora.com - dquora.com - 
+quora.com - duora.com - 
+quora.com - equora.com - 
+quora.com - euora.com - 
+quora.com - fuora.com - 
+quora.com - gquora.com - 
+quora.com - huora.com - 
+quora.com - iquora.com - 
+quora.com - juora.com - 
+quora.com - kuora.com - 
+quora.com - luora.com - 
+quora.com - mquora.com - 
+quora.com - muora.com - 
+quora.com - nquora.com - 
+quora.com - nuora.com - 
+quora.com - pquora.com - 
+quora.com - puora.com - 
+quora.com - q.uora.com - 
+quora.com - q1uora.com - 
+quora.com - q7ora.com - 
+quora.com - q7uora.com - 
+quora.com - q8ora.com - 
+quora.com - q8uora.com - 
+quora.com - qaora.com - 
+quora.com - qauora.com - 
+quora.com - qbora.com - 
+quora.com - qcora.com - 
+quora.com - qdora.com - 
+quora.com - qeora.com - 
+quora.com - qfora.com - 
+quora.com - qhora.com - 
+quora.com - qhuora.com - 
+quora.com - qiora.com - 
+quora.com - qiuora.com - 
+quora.com - qjora.com - 
+quora.com - qjuora.com - 
+quora.com - qkora.com - 
+quora.com - qkuora.com - 
+quora.com - qmora.com - 
+quora.com - qnora.com - 
+quora.com - qoora.com - 
+quora.com - qora.com - 
+quora.com - qouora.com - 
+quora.com - qoura.com - 
+quora.com - qpora.com - 
+quora.com - qqora.com - 
+quora.com - qquora.com - 
+quora.com - qsora.com - 
+quora.com - qsuora.com - 
+quora.com - qtora.com - 
+quora.com - qu0ora.com - 
+quora.com - qu0ra.com - 
+quora.com - qu8ora.com - 
+quora.com - qu9ora.com - 
+quora.com - qu9ra.com - 
+quora.com - quaora.com - 
+quora.com - quara.com - 
+quora.com - qubora.com - 
+quora.com - qubra.com - 
+quora.com - qudora.com - 
+quora.com - qudra.com - 
+quora.com - queora.com - 
+quora.com - quera.com - 
+quora.com - qufora.com - 
+quora.com - qufra.com - 
+quora.com - qugra.com - 
+quora.com - quhora.com - 
+quora.com - quhra.com - 
+quora.com - quiora.com - 
+quora.com - quira.com - 
+quora.com - qujora.com - 
+quora.com - qukora.com - 
+quora.com - qukra.com - 
+quora.com - qulora.com - 
+quora.com - qulra.com - 
+quora.com - qumora.com - 
+quora.com - qumra.com - 
+quora.com - qunora.com - 
+quora.com - qunra.com - 
+quora.com - quo4a.com - 
+quora.com - quo4ra.com - 
+quora.com - quo5a.com - 
+quora.com - quo5ra.com - 
+quora.com - quo9ra.com - 
+quora.com - quoa.com - 
+quora.com - quoaa.com - 
+quora.com - quoar.com - 
+quora.com - quoara.com - 
+quora.com - quoba.com - 
+quora.com - quoca.com - 
+quora.com - quoda.com - 
+quora.com - quodra.com - 
+quora.com - quoea.com - 
+quora.com - quoera.com - 
+quora.com - quofa.com - 
+quora.com - quofra.com - 
+quora.com - quoga.com - 
+quora.com - quogra.com - 
+quora.com - quoha.com - 
+quora.com - quoia.com - 
+quora.com - quoira.com - 
+quora.com - quoja.com - 
